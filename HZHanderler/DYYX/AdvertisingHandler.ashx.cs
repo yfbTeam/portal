@@ -275,6 +275,9 @@ namespace PMSHanderler.DYYX
             }
             finally
             {
+                Hander_C.jss.MaxJsonLength = Int32.MaxValue;
+                LogHelper.Info(Hander_C.jss.Serialize(jsonModel));
+                
                 context.Response.Write("{\"result\":" + Hander_C.jss.Serialize(jsonModel) + "}");
             }
         }

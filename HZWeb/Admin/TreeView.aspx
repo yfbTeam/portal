@@ -628,7 +628,7 @@
         }
 
         .ztreea_left {
-            width: 30%;
+            width: 20%;
             float: left;
             overflow: auto;
         }
@@ -643,7 +643,7 @@
             }
 
         .ztreea_right {
-            width: 70%;
+            width: 80%;
             box-sizing: border-box;
         }
 
@@ -664,7 +664,7 @@
         }
 
             .course_form_div label {
-                min-width: 75px;
+                width: 75px;
                 text-align: right;
                 line-height: 30px;
                 display: inline-block;

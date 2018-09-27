@@ -49,8 +49,8 @@
                 <div class="topcon">
                     <div class="top_left fl">
                         <div class="logo fl">
-                             <a href="/YQSY.aspx">
-                                <img src="/YQSY/images/logo.png" style="margin-top: 0; height: 28px;" /></a>
+                            <a href="/YQYZindex.aspx">
+                                <img src="/YQYZ/images/logo.png" style="margin-top: 0;" /></a>
                         </div>
                     </div>
                     <div class="top_right fr">
@@ -116,7 +116,7 @@
                 initHome();
 
                 //绑定左侧导航
-                $("#hrefback").attr("href", "/YQSYIndex.aspx");
+                $("#hrefback").attr("href", "/YQYZIndex.aspx");
             });
 
 
@@ -202,7 +202,7 @@
             function sysloginOut() {
 
                 $.cookie('LoginCookie_Cube', null, { path: '/', secure: false });
-                window.location = "/YQSYIndex.aspx";
+                window.location = "/YQYZIndex.aspx";
 
             }
         </script>
