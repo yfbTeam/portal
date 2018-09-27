@@ -13,6 +13,12 @@
     <link rel="stylesheet" type="text/css" href="/Admin/AdminCss/repository.css" />
     <link href="/Admin/AdminCss/onlinetest.css" rel="stylesheet" />
     <script src="/Scripts/jquery-1.11.2.min.js"></script>
+
+    <%--<script type="text/javascript" charset="utf-8" src="/Scripts/ueditor/ueditor.config.js"></script>
+    <script type="text/javascript" charset="utf-8" src="/Scripts/ueditor/ueditor.all.min.js"> </script>
+    <!--建议手动加在语言，避免在ie下有时因为加载语言失败导致编辑器加载失败-->
+    <!--这里加载的语言文件会覆盖你在配置项目里添加的语言类型，比如你在配置项目里配置的是英文，这里加载的中文，那最后就是中文-->
+    <script type="text/javascript" charset="utf-8" src="/Scripts/ueditor/lang/zh-cn/zh-cn.js"></script>--%>
     <script src="/Scripts/KindUeditor/kindeditor.js"></script>
     <script src="/Scripts/KindUeditor/plugins/code/prettify.js"></script>
     <script src="/Scripts/KindUeditor/lang/zh_CN.js"></script>
@@ -124,6 +130,8 @@
                         <div style="width: 88%; float: left;">
                             <textarea id="editor_id" name="content" style="width: 100%; height: 600px;">
                             </textarea>
+                            <%--  <script id="editor" type="text/plain" style="width: 100%; ">
+                            </script>--%>
                         </div>
                     </div>
                     <div class="course_form_div clearfix" id="divoffice">
@@ -190,6 +198,13 @@
                 pushStatus = 1;
                 $("#div_IsPush").show();
             }
+            //window.UEDITOR_CONFIG.serverUrl = window.UEDITOR_CONFIG.serverUrl + "?UploadParams=UploadImgForAdvertContent";
+            //window.editor = UE.getEditor('editor');
+            //editor.ready(function () {
+            //    GetUserInfoCookie();
+            //    initData();
+            //});
+
             KindEditor.ready(function (K) {
                 window.editor = K.create('#editor_id', {
                     uploadJson: '../../Handler/UploadImage.ashx?action=UploadImgForAdvertContent',
@@ -241,13 +256,18 @@
                         if (json.result.errMsg == "success") {
                             var item = json.result.retData;
                             if (item != null) {
+
+
                                 //使用正则获取flash
                                 var embed_html = item.CreativeHTML.match(patern);
+
                                 if (embed_html != undefined && embed_html != null && embed_html != '') {
                                     //保存加载的正确值
                                     localStorage.setItem("media_html", embed_html)
                                 }
+
                                 editor.html(item.CreativeHTML);
+                                //editor.setContent(item.CreativeHTML);
                                 $("#Description").val(item.Description);
                                 $("#StarDate").val(DateTimeConvert(item.CreateTime, "yyyy-MM-dd HH:mm:ss"));
                                 $("#HAdvertId").val(item.Id);
@@ -301,6 +321,8 @@
                     if (json.result.errMsg == "success") {
                         layer.msg('操作成功!');
                         window.history.go(-1);
+                        //parent.getData(1, 10);
+                        //parent.CloseIFrameWindow();
                     }
                 },
                 error: OnError
@@ -346,6 +368,7 @@
                 )
             }
         }
+
         function GetUserInfoCookie() {
             if ($.cookie('LoginCookie_Cube') != null && $.cookie('LoginCookie_Cube') != "null" && $.cookie('LoginCookie_Cube') != "") {
                 var UserInfo = $.parseJSON($.cookie('LoginCookie_Cube'));
@@ -354,12 +377,13 @@
                 }
             }
         }
-        /*var uploadbutton3 = KindEditor.uploadbutton({
+
+
+        var uploadbutton3 = KindEditor.uploadbutton({
             button: KindEditor($("[data-name='media']")),
             fieldName: 'file',
             url: 'upload_file_XXX_json?dir=image', //文件上传的action，设置dir为image
             afterUpload: function (data) {
-                debugger;
                 if (data.error === 0) {
                     //正确的时候执行
                 } else {
@@ -373,7 +397,9 @@
         });
         uploadbutton3.fileBox.change(function (e) {
             uploadbutton3.submit();
-        });*/
+        });
+
+
     </script>
 </body>
 </html>

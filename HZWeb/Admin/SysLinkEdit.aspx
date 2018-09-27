@@ -256,6 +256,8 @@
                     if (json.result.errMsg == "success") {
                         layer.msg('操作成功!');
                         window.history.go(-1);
+                        //parent.getData(1, 10);
+                        //parent.CloseIFrameWindow();
                     }
                 },
                 error: OnError

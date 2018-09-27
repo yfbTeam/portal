@@ -1,7 +1,6 @@
 ﻿var IsAdminPower = 0;//只有管理员有发布新闻权限(0否；1是)
 
-
-var SystemWeb = "YQZJ";
+var SystemWeb = "ZZMH";
 
 /**日期转换成时间字符串**/
 /** date日期  **/
@@ -162,7 +161,7 @@ function AdminPower() {
 function Check_CurrentUser()
 {
     if ($.cookie('LoginCookie_Cube') == null || $.cookie('LoginCookie_Cube') == "null" || $.cookie('LoginCookie_Cube') == undefined || $.cookie('LoginCookie_Cube') == '') {
-        window.location.href = '/YQZJ/YQZJLogin.aspx';
+        window.location.href = '/ZZMH/ZZMHLogin.aspx';
     }
 }
 

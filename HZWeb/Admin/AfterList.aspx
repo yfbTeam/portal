@@ -16,6 +16,8 @@
     <link rel="stylesheet" type="text/css" href="/Admin/AdminCss/onlinetest.css" />
     <script src="/Scripts/jquery-1.11.2.min.js"></script>
     <script src="/Scripts/layer/layer.js"></script>
+    <script src="/DYYX/js/layout.js"></script>
+
     <script src="/Scripts/jquery.cookie.js"></script>
     <script src="/Scripts/Common.js"></script>
       <script>
