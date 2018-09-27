@@ -49,9 +49,8 @@
                 <div class="topcon">
                     <div class="top_left fl">
                         <div class="logo fl">
-                             <a href="/HZZSIndex.aspx">
-                                <img src="/HZZS/images/logo.png" style="margin-top: 0;" />
-                            </a>
+                            <a href="/PreSchoolIndex.aspx">
+                                <img src="/PreSchool/images/AfterLogo.png" style="margin-top: 0; height: 28px;" /></a>
                         </div>
                     </div>
                     <div class="top_right fr">
@@ -117,7 +116,7 @@
                 initHome();
 
                 //绑定左侧导航
-                $("#hrefback").attr("href", "/HZZSIndex.aspx");
+                $("#hrefback").attr("href", "/PreSchoolIndex.aspx");
             });
 
 
@@ -203,7 +202,7 @@
             function sysloginOut() {
 
                 $.cookie('LoginCookie_Cube', null, { path: '/', secure: false });
-                window.location = "/HZZSIndex.aspx";
+                window.location = "/PreschoolIndex.aspx";
 
             }
         </script>

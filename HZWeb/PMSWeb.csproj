@@ -138,88 +138,253 @@
     <Content Include="Admin\AdminCss\style.css" />
     <Content Include="Global.asax" />
     <Content Include="Handler\ffmpeg.exe" />
-    <Content Include="HZZSIndex.aspx" />
-    <Content Include="HZZS\Attatchment\1.jpg" />
-    <Content Include="HZZS\Attatchment\1.png" />
-    <Content Include="HZZS\Attatchment\2.jpg" />
-    <Content Include="HZZS\Attatchment\2.png" />
-    <Content Include="HZZS\Attatchment\200812492047709.jpg" />
-    <Content Include="HZZS\Attatchment\201041142041947.jpg" />
-    <Content Include="HZZS\Attatchment\2011418154216347.jpg" />
-    <Content Include="HZZS\Attatchment\2011418154235594.jpg" />
-    <Content Include="HZZS\Attatchment\2015智能家居赛项获第二名.jpg" />
-    <Content Include="HZZS\Attatchment\2015综合布线团队三等奖.jpg" />
-    <Content Include="HZZS\Attatchment\2015网络组建团队三等奖.jpg" />
-    <Content Include="HZZS\Attatchment\2015网络组建团队获第四名.jpg" />
-    <Content Include="HZZS\Attatchment\3.jpg" />
-    <Content Include="HZZS\Attatchment\4.jpg" />
-    <Content Include="HZZS\Attatchment\5.jpg" />
-    <Content Include="HZZS\Attatchment\6.jpg" />
-    <Content Include="HZZS\Attatchment\7.jpg" />
-    <Content Include="HZZS\Attatchment\中餐烹饪与营养膳食.jpg" />
-    <Content Include="HZZS\Attatchment\丰富多彩的入场表演.jpg" />
-    <Content Include="HZZS\Attatchment\动漫与游戏制作.jpg" />
-    <Content Include="HZZS\Attatchment\动漫专业获奖选手与辅导老师合影.jpg" />
-    <Content Include="HZZS\Attatchment\名家送晚.jpg" />
-    <Content Include="HZZS\Attatchment\就业1.jpg" />
-    <Content Include="HZZS\Attatchment\山水邀月.jpg" />
-    <Content Include="HZZS\Attatchment\广场秋实.jpg" />
-    <Content Include="HZZS\Attatchment\接力运动员风采.jpg" />
-    <Content Include="HZZS\Attatchment\旅服专业师生合影.jpg" />
-    <Content Include="HZZS\Attatchment\旅游服务与管理.jpg" />
-    <Content Include="HZZS\Attatchment\服装设计与工艺.jpg" />
-    <Content Include="HZZS\Attatchment\松廊冬雪.jpg" />
-    <Content Include="HZZS\Attatchment\校史馆.jpg" />
-    <Content Include="HZZS\Attatchment\梧林夏花.jpg" />
-    <Content Include="HZZS\Attatchment\烹饪专业表演.jpg" />
-    <Content Include="HZZS\Attatchment\物联网及智能家居参赛师生.jpg" />
-    <Content Include="HZZS\Attatchment\玉石迎晖.jpg" />
-    <Content Include="HZZS\Attatchment\网络组建及综合布线参赛师生.jpg" />
-    <Content Include="HZZS\Attatchment\美容美发专业获奖选手与辅导老师合影.jpg" />
-    <Content Include="HZZS\Attatchment\美容美发于形象设计.jpg" />
-    <Content Include="HZZS\Attatchment\群雕叠翠.jpg" />
-    <Content Include="HZZS\Attatchment\跳远运动员风采.jpg" />
-    <Content Include="HZZS\Attatchment\金融商贸专业金蕊雪获会计技能比赛二等奖.jpg" />
-    <Content Include="HZZS\bottom.aspx" />
-    <Content Include="HZZS\css\layout.css" />
-    <Content Include="HZZS\css\reset.css" />
-    <Content Include="HZZS\Header.aspx" />
-    <Content Include="HZZS\HZZSLogin.aspx" />
-    <Content Include="HZZS\images\banner_01.jpg" />
-    <Content Include="HZZS\images\banner_02.jpg" />
-    <Content Include="HZZS\images\banner_03.jpg" />
-    <Content Include="HZZS\images\bimo.png" />
-    <Content Include="HZZS\images\detail_bg.png" />
-    <Content Include="HZZS\images\detail_bg_01.png" />
-    <Content Include="HZZS\images\detail_bg_02.png" />
-    <Content Include="HZZS\images\icon.png" />
-    <Content Include="HZZS\images\left_navng.png" />
-    <Content Include="HZZS\images\link1.jpg" />
-    <Content Include="HZZS\images\link2.jpg" />
-    <Content Include="HZZS\images\link3.jpg" />
-    <Content Include="HZZS\images\link4.jpg" />
-    <Content Include="HZZS\images\link5.jpg" />
-    <Content Include="HZZS\images\link6.jpg" />
-    <Content Include="HZZS\images\link7.jpg" />
-    <Content Include="HZZS\images\list_tu.jpg" />
-    <Content Include="HZZS\images\li_bg.png" />
-    <Content Include="HZZS\images\logo.png" />
-    <Content Include="HZZS\images\nav_bg.png" />
-    <Content Include="HZZS\images\nav_rightbg.png" />
-    <Content Include="HZZS\images\password.png" />
-    <Content Include="HZZS\images\people.png" />
-    <Content Include="HZZS\images\point.png" />
-    <Content Include="HZZS\images\right_bottom.png" />
-    <Content Include="HZZS\images\sprites1008.png" />
-    <Content Include="HZZS\images\three_title.png" />
-    <Content Include="HZZS\images\yzm.png" />
-    <Content Include="HZZS\js\common.js" />
-    <Content Include="HZZS\js\jquery-1.11.2.min.js" />
-    <Content Include="HZZS\js\jquery.SuperSlide.2.1.1.js" />
-    <Content Include="HZZS\Sitepages\BeforeItemList.aspx" />
-    <Content Include="HZZS\Sitepages\BeforeList.aspx" />
-    <Content Include="HZZS\Sitepages\BeforeScrollList.aspx" />
-    <Content Include="HZZS\Sitepages\BeforeView.aspx" />
+    <Content Include="PreschoolIndex.aspx" />
+    <Content Include="PreSchool\css\reset.css" />
+    <Content Include="PreSchool\css\style.css" />
+    <Content Include="PreSchool\footer.html" />
+    <Content Include="PreSchool\images\AfterLogo.png" />
+    <Content Include="PreSchool\images\a_01.jpg" />
+    <Content Include="PreSchool\images\a_02.jpg" />
+    <Content Include="PreSchool\images\a_03.jpg" />
+    <Content Include="PreSchool\images\banner.jpg" />
+    <Content Include="PreSchool\images\bg.jpg" />
+    <Content Include="PreSchool\images\bg11.jpg" />
+    <Content Include="PreSchool\images\bird.png" />
+    <Content Include="PreSchool\images\caipin1.png" />
+    <Content Include="PreSchool\images\caipin2.png" />
+    <Content Include="PreSchool\images\caipin3.png" />
+    <Content Include="PreSchool\images\caipin4.png" />
+    <Content Include="PreSchool\images\caipin5.png" />
+    <Content Include="PreSchool\images\caipin_bg.png" />
+    <Content Include="PreSchool\images\child_03.jpg" />
+    <Content Include="PreSchool\images\common.png" />
+    <Content Include="PreSchool\images\dean.png" />
+    <Content Include="PreSchool\images\deans.jpg" />
+    <Content Include="PreSchool\images\DeveEdu_bg_01.png" />
+    <Content Include="PreSchool\images\DeveEdu_bg_02.png" />
+    <Content Include="PreSchool\images\DeveEdu_bg_03.png" />
+    <Content Include="PreSchool\images\edumews.png" />
+    <Content Include="PreSchool\images\EduRes_bg_01.png" />
+    <Content Include="PreSchool\images\EduRes_bg_02.png" />
+    <Content Include="PreSchool\images\EduRes_bg_03.png" />
+    <Content Include="PreSchool\images\elephant.png" />
+    <Content Include="PreSchool\images\email_bg.png" />
+    <Content Include="PreSchool\images\emblem_IMG.jpg" />
+    <Content Include="PreSchool\images\foo.jpg" />
+    <Content Include="PreSchool\images\footer_bg.png" />
+    <Content Include="PreSchool\images\homeedu_bg.jpg" />
+    <Content Include="PreSchool\images\homeedu_bg_01.png" />
+    <Content Include="PreSchool\images\homeedu_bg_02.png" />
+    <Content Include="PreSchool\images\homeedu_bg_03.png" />
+    <Content Include="PreSchool\images\home_03.png" />
+    <Content Include="PreSchool\images\home_titlebg.png" />
+    <Content Include="PreSchool\images\hygiene.png" />
+    <Content Include="PreSchool\images\hygiene_03.png" />
+    <Content Include="PreSchool\images\hygiene_bg_01.png" />
+    <Content Include="PreSchool\images\hygiene_bg_02.png" />
+    <Content Include="PreSchool\images\hygiene_bg_03.png" />
+    <Content Include="PreSchool\images\hypiene_05.png" />
+    <Content Include="PreSchool\images\img1.jpg" />
+    <Content Include="PreSchool\images\in.jpg" />
+    <Content Include="PreSchool\images\index_bg_01.png" />
+    <Content Include="PreSchool\images\index_bg_02.png" />
+    <Content Include="PreSchool\images\index_bg_03.png" />
+    <Content Include="PreSchool\images\introduce.png" />
+    <Content Include="PreSchool\images\leftnav_bg.png" />
+    <Content Include="PreSchool\images\leftnav_bg_01.png" />
+    <Content Include="PreSchool\images\leftnav_bg_02.png" />
+    <Content Include="PreSchool\images\leftnav_bg_03.png" />
+    <Content Include="PreSchool\images\line.png" />
+    <Content Include="PreSchool\images\link_01.png" />
+    <Content Include="PreSchool\images\link_02.jpg" />
+    <Content Include="PreSchool\images\link_bg.png" />
+    <Content Include="PreSchool\images\list_img_01.jpg" />
+    <Content Include="PreSchool\images\list_img_02.jpg" />
+    <Content Include="PreSchool\images\login.png" />
+    <Content Include="PreSchool\images\loginbtn.png" />
+    <Content Include="PreSchool\images\logo.png" />
+    <Content Include="PreSchool\images\luntu_01.png" />
+    <Content Include="PreSchool\images\luntu_02.jpg" />
+    <Content Include="PreSchool\images\luntu_03.png" />
+    <Content Include="PreSchool\images\mao.png" />
+    <Content Include="PreSchool\images\more2.png" />
+    <Content Include="PreSchool\images\nationalflag.jpg" />
+    <Content Include="PreSchool\images\nav_bg.jpg" />
+    <Content Include="PreSchool\images\news.png" />
+    <Content Include="PreSchool\images\notice.png" />
+    <Content Include="PreSchool\images\panda.png" />
+    <Content Include="PreSchool\images\ParkProfile_bg_01.png" />
+    <Content Include="PreSchool\images\ParkProfile_bg_02.png" />
+    <Content Include="PreSchool\images\ParkProfile_bg_03.png" />
+    <Content Include="PreSchool\images\park_01.png" />
+    <Content Include="PreSchool\images\park_02.png" />
+    <Content Include="PreSchool\images\partyunicon.jpg" />
+    <Content Include="PreSchool\images\PartyUnion_bg_01.png" />
+    <Content Include="PreSchool\images\PartyUnion_bg_02.png" />
+    <Content Include="PreSchool\images\PartyUnion_bg_03.png" />
+    <Content Include="PreSchool\images\party_inner.jpg" />
+    <Content Include="PreSchool\images\party_left.jpg" />
+    <Content Include="PreSchool\images\party_right.jpg" />
+    <Content Include="PreSchool\images\photo.png" />
+    <Content Include="PreSchool\images\PracRes_bg_01.png" />
+    <Content Include="PreSchool\images\PracRes_bg_02.png" />
+    <Content Include="PreSchool\images\PracRes_bg_03.png" />
+    <Content Include="PreSchool\images\recipe.png" />
+    <Content Include="PreSchool\images\ren1.png" />
+    <Content Include="PreSchool\images\righttop.png" />
+    <Content Include="PreSchool\images\SocialDeve_bg_01.png" />
+    <Content Include="PreSchool\images\SocialDeve_bg_02.png" />
+    <Content Include="PreSchool\images\SocialDeve_bg_03.png" />
+    <Content Include="PreSchool\images\social_03.png" />
+    <Content Include="PreSchool\images\sprite-clean.png" />
+    <Content Include="PreSchool\images\sprite4.png" />
+    <Content Include="PreSchool\images\sprite3.png" />
+    <Content Include="PreSchool\images\sprite1.png" />
+    <Content Include="PreSchool\images\sprite2.png" />
+    <Content Include="PreSchool\images\sprite5.png" />
+    <Content Include="PreSchool\images\sprite6.png" />
+    <Content Include="PreSchool\images\survey_bg.png" />
+    <Content Include="PreSchool\images\teachedu.jpg" />
+    <Content Include="PreSchool\images\TeachEdu_bg_01.png" />
+    <Content Include="PreSchool\images\TeachEdu_bg_02.png" />
+    <Content Include="PreSchool\images\TeachEdu_bg_03.png" />
+    <Content Include="PreSchool\images\teacher_img_00.jpg" />
+    <Content Include="PreSchool\images\teacher_img_01.jpg" />
+    <Content Include="PreSchool\images\teacher_img_02.jpg" />
+    <Content Include="PreSchool\images\teacher_img_03.jpg" />
+    <Content Include="PreSchool\images\teacher_img_04.jpg" />
+    <Content Include="PreSchool\images\teacher_img_05.jpg" />
+    <Content Include="PreSchool\images\teacher_img_06.jpg" />
+    <Content Include="PreSchool\images\teacher_img_07.jpg" />
+    <Content Include="PreSchool\images\teacher_img_08.jpg" />
+    <Content Include="PreSchool\images\teacher_img_09.jpg" />
+    <Content Include="PreSchool\images\tile_07.png" />
+    <Content Include="PreSchool\images\tips_zi.png" />
+    <Content Include="PreSchool\images\tip_bg.png" />
+    <Content Include="PreSchool\images\title42.png" />
+    <Content Include="PreSchool\images\title_01.png" />
+    <Content Include="PreSchool\images\title_02.png" />
+    <Content Include="PreSchool\images\title_03.png" />
+    <Content Include="PreSchool\images\title_04.png" />
+    <Content Include="PreSchool\images\title_bg.png" />
+    <Content Include="PreSchool\images\title_bg_03.png" />
+    <Content Include="PreSchool\images\tu.png" />
+    <Content Include="PreSchool\images\tu1.png" />
+    <Content Include="PreSchool\images\tueq_04.png" />
+    <Content Include="PreSchool\images\tueq_center.png" />
+    <Content Include="PreSchool\images\tu_left.png" />
+    <Content Include="PreSchool\images\tu_left1.png" />
+    <Content Include="PreSchool\images\tu_right.png" />
+    <Content Include="PreSchool\images\tu_right1.png" />
+    <Content Include="PreSchool\images\tueq_left.png" />
+    <Content Include="PreSchool\images\tueq_right.png" />
+    <Content Include="PreSchool\images\家园共育_03.png" />
+    <Content Include="PreSchool\images\家园共育_05.png" />
+    <Content Include="PreSchool\js\common.js" />
+    <Content Include="PreSchool\js\html5shiv.min.js" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\buffer.gif" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\logo.png" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\skin.css" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\skin.html" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\skin.js" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\bg.jpg" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\buffer.png" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\controlbarbg.jpg" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\skin.css" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\skin.html" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\skin.js" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\buffer.gif" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\logo.png" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\skin.css" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\skin.html" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\buffer.gif" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\clarity_btn_bg.png" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\buffer.gif" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\clarity_btn_bg.png" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\buffer.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\buffer.gif" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\buffer.png" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\buffer.png" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\buffer.gif" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\skin.js" />
+    <Content Include="PreSchool\js\jquery.SuperSlide.2.1.1.js" />
+    <Content Include="PreSchool\js\selectivizr-min.js" />
+    <Content Include="PreSchool\js\sewise.player.min.js" />
+    <Content Include="PreSchool\nav.html" />
+    <Content Include="PreSchool\PreSchoolLogin.aspx" />
+    <Content Include="PreSchool\SitePages\BeforeItemList.aspx" />
+    <Content Include="PreSchool\SitePages\BeforeList.aspx" />
+    <Content Include="PreSchool\SitePages\BeforeView.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryDeveEdu.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryEduRes.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryHomeEdu.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryHygiene.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryParkProfile.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryPartyUnion.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryPracRes.aspx" />
+    <Content Include="PreSchool\SitePages\CategorySocialDeve.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryTeachEdu.aspx" />
+    <Content Include="PreSchool\SitePages\NoticeList.aspx" />
+    <Content Include="PreSchool\SitePages\NoticeView.aspx" />
+    <Content Include="PreSchool\SitePages\TwoLevelCommon.js" />
+    <Content Include="PreSchool\Survey.html" />
     <Content Include="Scripts\ajaxfileupload.js" />
     <Content Include="Scripts\flash\video-js.css" />
     <Content Include="Scripts\flash\video.js" />
@@ -1076,66 +1241,122 @@
     <Compile Include="Handler\WordOpenHTML.ashx.cs">
       <DependentUpon>WordOpenHTML.ashx</DependentUpon>
     </Compile>
-    <Compile Include="HZZSIndex.aspx.cs">
-      <DependentUpon>HZZSIndex.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="HZZSIndex.aspx.designer.cs">
-      <DependentUpon>HZZSIndex.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="HZZS\bottom.aspx.cs">
-      <DependentUpon>bottom.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="HZZS\bottom.aspx.designer.cs">
-      <DependentUpon>bottom.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="HZZS\Header.aspx.cs">
-      <DependentUpon>Header.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="HZZS\Header.aspx.designer.cs">
-      <DependentUpon>Header.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="HZZS\HZZSLogin.aspx.cs">
-      <DependentUpon>HZZSLogin.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="HZZS\HZZSLogin.aspx.designer.cs">
-      <DependentUpon>HZZSLogin.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="HZZS\Sitepages\BeforeItemList.aspx.cs">
-      <DependentUpon>BeforeItemList.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="HZZS\Sitepages\BeforeItemList.aspx.designer.cs">
-      <DependentUpon>BeforeItemList.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="HZZS\Sitepages\BeforeList.aspx.cs">
-      <DependentUpon>BeforeList.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="HZZS\Sitepages\BeforeList.aspx.designer.cs">
-      <DependentUpon>BeforeList.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="HZZS\Sitepages\BeforeScrollList.aspx.cs">
-      <DependentUpon>BeforeScrollList.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="HZZS\Sitepages\BeforeScrollList.aspx.designer.cs">
-      <DependentUpon>BeforeScrollList.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="HZZS\Sitepages\BeforeView.aspx.cs">
-      <DependentUpon>BeforeView.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="HZZS\Sitepages\BeforeView.aspx.designer.cs">
-      <DependentUpon>BeforeView.aspx</DependentUpon>
-    </Compile>
     <Compile Include="ListFileHandler.cs" />
     <Compile Include="NotSupportedHandler.cs" />
     <Compile Include="ParameterValidate.cs" />
     <Compile Include="PathFormater.cs" />
+    <Compile Include="PreschoolIndex.aspx.cs">
+      <DependentUpon>PreschoolIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreschoolIndex.aspx.designer.cs">
+      <DependentUpon>PreschoolIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\PreSchoolLogin.aspx.cs">
+      <DependentUpon>PreSchoolLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\PreSchoolLogin.aspx.designer.cs">
+      <DependentUpon>PreSchoolLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\BeforeItemList.aspx.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\BeforeItemList.aspx.designer.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\BeforeList.aspx.cs">
+      <DependentUpon>BeforeList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\BeforeList.aspx.designer.cs">
+      <DependentUpon>BeforeList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\BeforeView.aspx.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\BeforeView.aspx.designer.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryDeveEdu.aspx.cs">
+      <DependentUpon>CategoryDeveEdu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryDeveEdu.aspx.designer.cs">
+      <DependentUpon>CategoryDeveEdu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryEduRes.aspx.cs">
+      <DependentUpon>CategoryEduRes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryEduRes.aspx.designer.cs">
+      <DependentUpon>CategoryEduRes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryHomeEdu.aspx.cs">
+      <DependentUpon>CategoryHomeEdu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryHomeEdu.aspx.designer.cs">
+      <DependentUpon>CategoryHomeEdu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryHygiene.aspx.cs">
+      <DependentUpon>CategoryHygiene.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryHygiene.aspx.designer.cs">
+      <DependentUpon>CategoryHygiene.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryParkProfile.aspx.cs">
+      <DependentUpon>CategoryParkProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryParkProfile.aspx.designer.cs">
+      <DependentUpon>CategoryParkProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryPartyUnion.aspx.cs">
+      <DependentUpon>CategoryPartyUnion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryPartyUnion.aspx.designer.cs">
+      <DependentUpon>CategoryPartyUnion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryPracRes.aspx.cs">
+      <DependentUpon>CategoryPracRes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryPracRes.aspx.designer.cs">
+      <DependentUpon>CategoryPracRes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategorySocialDeve.aspx.cs">
+      <DependentUpon>CategorySocialDeve.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategorySocialDeve.aspx.designer.cs">
+      <DependentUpon>CategorySocialDeve.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryTeachEdu.aspx.cs">
+      <DependentUpon>CategoryTeachEdu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryTeachEdu.aspx.designer.cs">
+      <DependentUpon>CategoryTeachEdu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\NoticeList.aspx.cs">
+      <DependentUpon>NoticeList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\NoticeList.aspx.designer.cs">
+      <DependentUpon>NoticeList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\NoticeView.aspx.cs">
+      <DependentUpon>NoticeView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\NoticeView.aspx.designer.cs">
+      <DependentUpon>NoticeView.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Scripts\ueditor\Handler\controller.ashx.cs">
       <DependentUpon>controller.ashx</DependentUpon>
@@ -1152,7 +1373,12 @@
       <Name>PMSUtility</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="PreSchool\Attatchment\AdvertImgContent\" />
+    <Folder Include="PreSchool\Attatchment\LinkContent\" />
+    <Folder Include="PreSchool\Attatchment\SchoolStyle\" />
+    <Folder Include="PreSchool\Attatchment\WordContent\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

@@ -1,6 +1,9 @@
 ﻿var IsAdminPower = 0;//只有管理员有发布新闻权限(0否；1是)
 
-var SystemWeb="HZZS";
+
+var SystemWeb = "PreSchool";
+
+
 /**日期转换成时间字符串**/
 /** date日期  **/
 /** format要转换的字符串格式，默认为 "yyyy-MM-dd"格式，若没有需要的格式可自己添加 **/
@@ -160,7 +163,7 @@ function AdminPower() {
 function Check_CurrentUser()
 {
     if ($.cookie('LoginCookie_Cube') == null || $.cookie('LoginCookie_Cube') == "null" || $.cookie('LoginCookie_Cube') == undefined || $.cookie('LoginCookie_Cube') == '') {
-        window.location.href = '/HZZS/HZZSLogin.aspx';
+        window.location.href = '/PreSchool/PreSchoolLogin.aspx';
     }
 }
 
