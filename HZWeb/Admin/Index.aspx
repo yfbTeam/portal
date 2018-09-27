@@ -49,8 +49,10 @@
                 <div class="topcon">
                     <div class="top_left fl">
                         <div class="logo fl">
-                            <a href="/YQYZindex.aspx">
-                                <img src="/YQYZ/images/logo.png" style="margin-top: 0;" /></a>
+                           <a href="/YQZJIndex.aspx">
+                                <img src="/YQZJ/images/logo2.png" style="margin-top: 0;" />
+                                <span style="color: #fff; margin-left: 10px; font-weight: normal; border-left: 1px solid #fff; padding-left: 10px;">延庆县职业技术教育中心农民网络教育平台</span>
+                            </a>
                         </div>
                     </div>
                     <div class="top_right fr">
@@ -116,7 +118,7 @@
                 initHome();
 
                 //绑定左侧导航
-                $("#hrefback").attr("href", "/YQYZIndex.aspx");
+                $("#hrefback").attr("href", "/YQZJIndex.aspx");
             });
 
 
@@ -202,7 +204,7 @@
             function sysloginOut() {
 
                 $.cookie('LoginCookie_Cube', null, { path: '/', secure: false });
-                window.location = "/YQYZIndex.aspx";
+                window.location = "/YQZJIndex.aspx";
 
             }
         </script>

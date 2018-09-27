@@ -137,7 +137,6 @@
     <Content Include="Admin\AdminCss\repository.css" />
     <Content Include="Admin\AdminCss\style.css" />
     <Content Include="Global.asax" />
-    <Content Include="loadding.html" />
     <Content Include="Scripts\ajaxfileupload.js" />
     <Content Include="Scripts\flash\video-js.css" />
     <Content Include="Scripts\flash\video.js" />
@@ -632,64 +631,71 @@
     <Content Include="Admin\AdminCss\iconfont.ttf" />
     <Content Include="Admin\AdminCss\iconfont.woff" />
     <Content Include="Handler\WordOpenHTML.ashx" />
-    <Content Include="YQYZ\bottom.aspx" />
-    <Content Include="YQYZ\images\710.jpg" />
-    <Content Include="YQYZ\images\default.jpg" />
-    <Content Include="YQYZ\images\notice.png" />
-    <Content Include="YQYZ\images\password.png" />
-    <Content Include="YQYZ\images\people.png" />
-    <Content Include="YQYZ\images\yzm.png" />
-    <Content Include="YQYZ\js\layer\extend\layer.ext.js" />
-    <Content Include="YQYZ\js\layer\layer.js" />
-    <Content Include="YQYZ\js\layer\skin\default\icon-ext.png" />
-    <Content Include="YQYZ\js\layer\skin\default\icon.png" />
-    <Content Include="YQYZ\js\layer\skin\default\loading-0.gif" />
-    <Content Include="YQYZ\js\layer\skin\default\loading-1.gif" />
-    <Content Include="YQYZ\js\layer\skin\default\loading-2.gif" />
-    <Content Include="YQYZ\js\layer\skin\layer.css" />
-    <Content Include="YQYZ\js\layer\skin\layer.ext.css" />
-    <Content Include="YQYZ\loadding.html" />
-    <Content Include="YQYZ\SitePages\AnnounceNotice.aspx" />
-    <Content Include="YQYZ\SitePages\BeforeVote.aspx" />
-    <Content Include="YQYZ\SitePages\SearchContent.aspx" />
-    <Content Include="YQYZ\top.aspx" />
-    <Content Include="YQYZ\images\ajax-loader.gif" />
-    <Content Include="YQYZ\images\bg.png" />
-    <Content Include="YQYZ\images\linkbg.png" />
-    <Content Include="YQYZ\images\nav_bg.png" />
-    <Content Include="YQYZ\images\sprite-clean.png" />
-    <Content Include="YQYZ\images\titbg.png" />
-    <Content Include="YQYZ\js\common.js" />
-    <Content Include="YQYZ\css\layout2.css" />
-    <Content Include="YQYZ\css\reset.css" />
-    <Content Include="YQYZ\Header.aspx" />
-    <Content Include="YQYZ\images\banner.jpg" />
-    <Content Include="YQYZ\images\banner1.jpg" />
-    <Content Include="YQYZ\images\banner2.jpg" />
-    <Content Include="YQYZ\images\icon%281%29.png" />
-    <Content Include="YQYZ\images\icon.png" />
-    <Content Include="YQYZ\images\icon01.png" />
-    <Content Include="YQYZ\images\inner.jpg" />
-    <Content Include="YQYZ\images\logo1.png" />
-    <Content Include="YQYZ\images\mainbodyLeft_pic1.jpg" />
-    <Content Include="YQYZ\images\point.png" />
-    <Content Include="YQYZ\images\police.png" />
-    <Content Include="YQYZ\js\jquery.SuperSlide.2.1.1.js" />
-    <Content Include="YQYZ\SitePages\BeforeItemList.aspx" />
-    <Content Include="YQYZ\SitePages\BeforeList.aspx" />
-    <Content Include="YQYZ\SitePages\BeforeView.aspx" />
-    <Content Include="YQYZ\SitePages\NoticeList.aspx" />
-    <Content Include="YQYZ\SitePages\NoticeView.aspx" />
-    <Content Include="YQYZIndex.aspx" />
     <Content Include="Admin\font\fontawesome-webfont.eot" />
     <Content Include="Admin\font\fontawesome-webfont.ttf" />
     <Content Include="Admin\font\fontawesome-webfont.woff" />
     <Content Include="Admin\font\FontAwesome.otf" />
     <Content Include="config.json" />
     <Content Include="Handler\CommonInfo.ashx" />
-    <Content Include="YQYZ\YQYZLogin.aspx" />
+    <Content Include="YQZJIndex.aspx" />
+    <Content Include="YQZJ\bottom.aspx" />
+    <Content Include="YQZJ\css\layout.css" />
+    <Content Include="YQZJ\css\reset.css" />
+    <Content Include="YQZJ\Header.aspx" />
+    <Content Include="YQZJ\images\1.png" />
+    <Content Include="YQZJ\images\2.png" />
+    <Content Include="YQZJ\images\ajax-loader.gif" />
+    <Content Include="YQZJ\images\app_01.png" />
+    <Content Include="YQZJ\images\app_02.png" />
+    <Content Include="YQZJ\images\app_03.png" />
+    <Content Include="YQZJ\images\app_04.png" />
+    <Content Include="YQZJ\images\logo2.png" />
+    <Content Include="YQZJ\images\bannergif.gif" />
+    <Content Include="YQZJ\images\bannergif1.gif" />
+    <Content Include="YQZJ\images\bg.png" />
+    <Content Include="YQZJ\images\bg_shadow.png" />
+    <Content Include="YQZJ\images\bimo.png" />
+    <Content Include="YQZJ\images\default.jpg" />
+    <Content Include="YQZJ\images\detail_bg.png" />
+    <Content Include="YQZJ\images\detail_bg01.png" />
+    <Content Include="YQZJ\images\detail_bg1.png" />
+    <Content Include="YQZJ\images\icon01.png" />
+    <Content Include="YQZJ\images\link1.png" />
+    <Content Include="YQZJ\images\link10.jpg" />
+    <Content Include="YQZJ\images\link11.jpg" />
+    <Content Include="YQZJ\images\link12.jpg" />
+    <Content Include="YQZJ\images\link2.png" />
+    <Content Include="YQZJ\images\link3.jpg" />
+    <Content Include="YQZJ\images\link4.jpg" />
+    <Content Include="YQZJ\images\link5.jpg" />
+    <Content Include="YQZJ\images\link6.jpg" />
+    <Content Include="YQZJ\images\link7.jpg" />
+    <Content Include="YQZJ\images\link8.jpg" />
+    <Content Include="YQZJ\images\link9.jpg" />
+    <Content Include="YQZJ\images\li_bg.png" />
+    <Content Include="YQZJ\images\logo1.png" />
+    <Content Include="YQZJ\images\nav_rightbg.png" />
+    <Content Include="YQZJ\images\newlunbo.png" />
+    <Content Include="YQZJ\images\password.png" />
+    <Content Include="YQZJ\images\people.png" />
+    <Content Include="YQZJ\images\point.png" />
+    <Content Include="YQZJ\images\right_bottom.png" />
+    <Content Include="YQZJ\images\sprite-clean.png" />
+    <Content Include="YQZJ\images\three_title.png" />
+    <Content Include="YQZJ\images\tit_bg.png" />
+    <Content Include="YQZJ\images\tit_left.png" />
+    <Content Include="YQZJ\images\voidpic.png" />
+    <Content Include="YQZJ\images\yzm.png" />
+    <Content Include="YQZJ\images\logo.png" />
+    <Content Include="YQZJ\js\common.js" />
+    <Content Include="YQZJ\js\jquery-1.11.0.min.js" />
+    <Content Include="YQZJ\js\jquery.SuperSlide.2.1.1.js" />
+    <Content Include="YQZJ\Sitepages\BeforeItemList.aspx" />
+    <Content Include="YQZJ\Sitepages\BeforeList.aspx" />
+    <Content Include="YQZJ\Sitepages\BeforeView.aspx" />
+    <Content Include="YQZJ\Sitepages\Category.aspx" />
+    <Content Include="YQZJ\YQZJLogin.aspx" />
     <Content Include="packages.config" />
-    <None Include="Properties\PublishProfiles\DYYX.pubxml" />
     <Content Include="Scripts\ueditor\third-party\jquery-1.10.2.min.map" />
     <Content Include="Scripts\ueditor\third-party\video-js\font\vjs.eot" />
     <Content Include="Scripts\ueditor\third-party\video-js\font\vjs.ttf" />
@@ -698,13 +704,13 @@
     <Content Include="Scripts\videojs\font\vjs.eot" />
     <Content Include="Scripts\videojs\font\vjs.ttf" />
     <Content Include="Scripts\videojs\font\vjs.woff" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
-    <Content Include="YQYZ\延庆一中门户系统_用户手册.docx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\Common.js" />
@@ -1054,96 +1060,61 @@
       <DependentUpon>controller.ashx</DependentUpon>
     </Compile>
     <Compile Include="UploadHandler.cs" />
-    <Compile Include="YQYZ\bottom.aspx.cs">
+    <Compile Include="YQZJIndex.aspx.cs">
+      <DependentUpon>YQZJIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQZJIndex.aspx.designer.cs">
+      <DependentUpon>YQZJIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQZJ\bottom.aspx.cs">
       <DependentUpon>bottom.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="YQYZ\bottom.aspx.designer.cs">
+    <Compile Include="YQZJ\bottom.aspx.designer.cs">
       <DependentUpon>bottom.aspx</DependentUpon>
     </Compile>
-    <Compile Include="YQYZ\SitePages\AnnounceNotice.aspx.cs">
-      <DependentUpon>AnnounceNotice.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="YQYZ\SitePages\AnnounceNotice.aspx.designer.cs">
-      <DependentUpon>AnnounceNotice.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="YQYZ\SitePages\BeforeVote.aspx.cs">
-      <DependentUpon>BeforeVote.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="YQYZ\SitePages\BeforeVote.aspx.designer.cs">
-      <DependentUpon>BeforeVote.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="YQYZ\SitePages\SearchContent.aspx.cs">
-      <DependentUpon>SearchContent.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="YQYZ\SitePages\SearchContent.aspx.designer.cs">
-      <DependentUpon>SearchContent.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="YQYZ\top.aspx.cs">
-      <DependentUpon>top.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="YQYZ\top.aspx.designer.cs">
-      <DependentUpon>top.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="YQYZ\Header.aspx.cs">
+    <Compile Include="YQZJ\Header.aspx.cs">
       <DependentUpon>Header.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="YQYZ\Header.aspx.designer.cs">
+    <Compile Include="YQZJ\Header.aspx.designer.cs">
       <DependentUpon>Header.aspx</DependentUpon>
     </Compile>
-    <Compile Include="YQYZ\SitePages\BeforeItemList.aspx.cs">
+    <Compile Include="YQZJ\Sitepages\BeforeItemList.aspx.cs">
       <DependentUpon>BeforeItemList.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="YQYZ\SitePages\BeforeItemList.aspx.designer.cs">
+    <Compile Include="YQZJ\Sitepages\BeforeItemList.aspx.designer.cs">
       <DependentUpon>BeforeItemList.aspx</DependentUpon>
     </Compile>
-    <Compile Include="YQYZ\SitePages\BeforeList.aspx.cs">
+    <Compile Include="YQZJ\Sitepages\BeforeList.aspx.cs">
       <DependentUpon>BeforeList.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="YQYZ\SitePages\BeforeList.aspx.designer.cs">
+    <Compile Include="YQZJ\Sitepages\BeforeList.aspx.designer.cs">
       <DependentUpon>BeforeList.aspx</DependentUpon>
     </Compile>
-    <Compile Include="YQYZ\SitePages\BeforeView.aspx.cs">
+    <Compile Include="YQZJ\Sitepages\BeforeView.aspx.cs">
       <DependentUpon>BeforeView.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="YQYZ\SitePages\BeforeView.aspx.designer.cs">
+    <Compile Include="YQZJ\Sitepages\BeforeView.aspx.designer.cs">
       <DependentUpon>BeforeView.aspx</DependentUpon>
     </Compile>
-    <Compile Include="YQYZ\SitePages\NoticeList.aspx.cs">
-      <DependentUpon>NoticeList.aspx</DependentUpon>
+    <Compile Include="YQZJ\Sitepages\Category.aspx.cs">
+      <DependentUpon>Category.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="YQYZ\SitePages\NoticeList.aspx.designer.cs">
-      <DependentUpon>NoticeList.aspx</DependentUpon>
+    <Compile Include="YQZJ\Sitepages\Category.aspx.designer.cs">
+      <DependentUpon>Category.aspx</DependentUpon>
     </Compile>
-    <Compile Include="YQYZ\SitePages\NoticeView.aspx.cs">
-      <DependentUpon>NoticeView.aspx</DependentUpon>
+    <Compile Include="YQZJ\YQZJLogin.aspx.cs">
+      <DependentUpon>YQZJLogin.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="YQYZ\SitePages\NoticeView.aspx.designer.cs">
-      <DependentUpon>NoticeView.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="YQYZIndex.aspx.cs">
-      <DependentUpon>YQYZIndex.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="YQYZIndex.aspx.designer.cs">
-      <DependentUpon>YQYZIndex.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="YQYZ\YQYZLogin.aspx.cs">
-      <DependentUpon>YQYZLogin.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="YQYZ\YQYZLogin.aspx.designer.cs">
-      <DependentUpon>YQYZLogin.aspx</DependentUpon>
+    <Compile Include="YQZJ\YQZJLogin.aspx.designer.cs">
+      <DependentUpon>YQZJLogin.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -1157,8 +1128,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="YQYZ\Attatchment\AdvertImgContent\" />
-    <Folder Include="YQYZ\Attatchment\SchoolStyle\" />
+    <Folder Include="YQZJ\Attachment\SchooolStyle\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

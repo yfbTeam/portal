@@ -14,12 +14,6 @@
     <link rel="stylesheet" type="text/css" href="/Admin/AdminCss/onlinetest.css" />
     <script src="/Scripts/jquery-1.11.2.min.js"></script>
     <script src="/Scripts/layer/layer.js"></script>
-   
- <%--   <script type="text/javascript" charset="utf-8" src="/Scripts/ueditor/ueditor.config.js"></script>
-    <script type="text/javascript" charset="utf-8" src="/Scripts/ueditor/ueditor.all.min.js"> </script>
-    <!--建议手动加在语言，避免在ie下有时因为加载语言失败导致编辑器加载失败-->
-    <!--这里加载的语言文件会覆盖你在配置项目里添加的语言类型，比如你在配置项目里配置的是英文，这里加载的中文，那最后就是中文-->
-    <script type="text/javascript" charset="utf-8" src="/Scripts/ueditor/lang/zh-cn/zh-cn.js"></script>--%>
        <script src="/Scripts/KindUeditor/kindeditor.js"></script>
     <script src="/Scripts/KindUeditor/plugins/code/prettify.js"></script>
     <script src="/Scripts/KindUeditor/lang/zh_CN.js"></script>
@@ -185,13 +179,7 @@
     </form>
     <script type="text/javascript">
         $(function () {
-            //window.UEDITOR_CONFIG.serverUrl = window.UEDITOR_CONFIG.serverUrl + "?UploadParams=UploadImgForAdvertContent";
-            //window.editor = UE.getEditor('editor');
-            //editor.ready(function () {
-            //    GetUserInfoCookie();
-            //    initSchool();
-            //});
-
+           
             KindEditor.ready(function (K) {
                 window.editor = K.create('#editor_id', {
                     uploadJson: '../../Handler/UploadImage.ashx?action=UploadImgForAdvertContent',
