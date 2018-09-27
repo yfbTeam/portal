@@ -209,7 +209,10 @@
             //editor.ready(function () {
             //    initData();
             //});
-           
+            var pasterMgr = new WordPasterManager();
+            pasterMgr.Config["PostUrl"] = "http://http://192.168.50.149:8054/Admin/asp.net/upload.aspx";
+            pasterMgr.Config["Cookie"] = 'ASP.NET_SessionId=<%=Session.SessionID%>';
+            pasterMgr.Load();
             //
             KindEditor.ready(function (K) {
                 window.editor = K.create('#editor_id', {
@@ -222,7 +225,7 @@
                     resizeType: 0,
                     items: [
                         'source', '|', 'undo', 'redo', '|', 'preview', 'print', 'template', 'code', 'cut', 'copy', 'paste',
-                        'plainpaste', '|', 'justifyleft', 'justifycenter', 'justifyright',
+                        'plainpaste', 'wordpaste', '|', 'justifyleft', 'justifycenter', 'justifyright',
                         'justifyfull', 'insertorderedlist', 'insertunorderedlist', 'indent', 'outdent', 'subscript',
                         'superscript', 'clearhtml', 'quickformat', 'selectall', '|', 'fullscreen', '/',
                         'formatblock', 'fontname', 'fontsize', '|', 'forecolor', 'hilitecolor', 'bold',

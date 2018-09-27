@@ -49,8 +49,8 @@
                 <div class="topcon">
                     <div class="top_left fl">
                         <div class="logo fl">
-                            <a href="/DYYXindex.aspx">
-                                <img src="/DYYX/images/logo.png" style="margin-top: 0;" /></a>
+                            <a href="/HZNWIndex.aspx">
+                                <img src="/HZNW/images/logo.png" style="margin-top: 0;" /></a>
                         </div>
                     </div>
                     <div class="top_right fr">
@@ -116,7 +116,7 @@
                 initHome();
 
                 //绑定左侧导航
-                $("#hrefback").attr("href", "/DYYXIndex.aspx");
+                $("#hrefback").attr("href", "/HZNWIndex.aspx");
             });
 
 
@@ -202,7 +202,7 @@
             function sysloginOut() {
 
                 $.cookie('LoginCookie_Cube', null, { path: '/', secure: false });
-                window.location = "/DYYXIndex.aspx";
+                window.location = "/HZNWIndex.aspx";
 
             }
         </script>

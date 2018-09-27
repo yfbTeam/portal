@@ -126,6 +126,8 @@
     <Content Include="Admin\VoteManager.aspx" />
     <Content Include="BLL\Newtonsoft.Json.dll" />
     <Content Include="BLL\WopiService_Proxy.dll" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\AdvertContent20161219033848AdvertContent201612130711192、手机通讯录信息的数据封装.mp4" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\AdvertContent201612190339091、倒计时的UI设计.mp4" />
     <Content Include="DYYX\images\password.png" />
     <Content Include="DYYX\images\people.png" />
     <Content Include="DYYX\images\three_title.png" />
@@ -135,6 +137,612 @@
     <Content Include="DYYX\SitePages\BeforeView.aspx" />
     <Content Include="DYYX\SitePages\NoticeList.aspx" />
     <Content Include="DYYX\SitePages\NoticeView.aspx" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\01.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\01已选.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\02.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\02已选.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\03.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\03已选.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\04.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\05.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\05132.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\05133.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\05913.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\05914.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\05917.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\06.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\06414.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\06562.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\06615.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\07.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\08.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\09.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1.png" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1398412938607.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1398412966462.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A0679.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A0708.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A0751.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A0836_看图王_看图王.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A1300.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A2575.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A2586.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A2663.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A2700.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A2703.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A2742.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A2744.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A2745.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A2848.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A2880.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\1J1A2985.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\2.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20140528100950.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20140528101037.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\2014年工会积极分子：李迪.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\2014年工会积极分子：焦志山.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_100756.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_101024.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_101307.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_133611.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_134826.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_134933.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_135001.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_135034.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_135127.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_135158.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_135215.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_135950.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_140014.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_140028.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_140044.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_140115.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_140146.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_140201.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_140221.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_140234.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150414_140243.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150910_095634.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150910_095702.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150910_095821.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150910_100430.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20150910_100808.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20151013_135611.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20151013_140653.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20160308_163127.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20160308_163311.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20160308_163518.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20160321_101324.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20160322_153059.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20160322_153200.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20160323_142955.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20160323_143526.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\20160323_145459.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\247998446622241207.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\435430787653487901.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\640.webp_20%281%29.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\657058540392867675.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC00641.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC00649.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC00650.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC02498.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC02505.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC02520.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC02553.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC02560.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC02638_20-_20副本.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC02658_副本.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC02669.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC02705.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC02725.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC02754.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03560.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03567.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03568.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03584.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03606.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03630.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03971.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03973.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03979.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03983.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03985.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03987.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03988.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC03999.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC06101.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC06103.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC06113.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC06135.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC06139.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC06160.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC06234.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC06248.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC06256.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC07732.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC07743.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC07764.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC07777.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC07783.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC08541.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC08552.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC08594.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC09426.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC09474.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC09677.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC09682.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC09698.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC_5064.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\DSC_5100.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG20160504161208.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG20160504164039.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0022.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0042.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0051.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0133.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0141.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0155.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0159.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0167.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0179.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0181.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0197.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0208.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0222.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0394.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0452.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0460.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0508.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0516.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0531.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0575.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0588.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0614.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0616.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0635.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0639.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0644.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0652.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0653.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0693.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0695.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0697.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0704.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0755.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0767.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0774.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0789.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0807.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0821.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0823.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0846.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0918.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0920.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0922.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0923.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0937.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_0939.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1125.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1127.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1139.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1144.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1244.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1254.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1268.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1272.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1286.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1300.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1311.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1327.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1334.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1345.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1374.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1375.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1376.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1376_副本355.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1386.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1387.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1391.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1417.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1491.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1639.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1716.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1721.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1754.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_1755.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20141115_144429.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20141115_144443.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20141118_162136.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20141118_162150.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20150327_153638.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20150327_153824.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20150327_161507.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20150914_103057.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20150915_081244.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20150915_091251.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20150915_103016.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20150915_104307.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20151227_085518.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20151227_090412.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20151227_094226.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20160428_092443.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20160428_100429.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20160831_091253.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20160831_092528.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20160831_093914.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_20160831_095822.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_2538.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_2552.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_2811.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_2865.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_2873.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_2876.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_2891.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3001.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3004.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3010.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3023.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3031.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3045.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3059.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3062.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3063.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3086.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3207.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3209.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3212.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3215.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3222.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3310.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3545.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3547.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3596.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3607.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3665.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_3686.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_4335.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_4435.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_4858.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_4880.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_4883.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_4884.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_4894.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_4912.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_4918.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_4945.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_4959.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_4982.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_5004.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_5014.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_5033.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_5041.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_5044.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_5074.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_5267.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_6267.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_6289.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_6304.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_6705.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_6706.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_6747.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_6771.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_6780.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_6909.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7106.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7126.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7145.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7293_副本.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7408_看图王_看图王.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7448_看图王_看图王.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7461_看图王_看图王.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7568_看图王_看图王.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7583_看图王_看图王.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7668_看图王_看图王.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7678.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7869.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7899.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7923.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7929.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7944.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7947.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_7979.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8247.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8264.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8503.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8547.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8561.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8684.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8741.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8742.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8749.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8754.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8799.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8810.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8844.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8856.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8861.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8917.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_8928.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_9768.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_9795.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\IMG_9865.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1448939284421.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1448939301091.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1448939321933.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1448943773290.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1448943787491.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1448943836144.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1457482714502.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1457482733270.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1457482790191.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1457482806869.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1457482830527.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1457482839897.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1457482900468.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\mmexport1457482928378.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\nEO_IMG__DSC0406.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\news.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\news1.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\P1040780.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\P1040848.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\pic_20001.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\pic_20015.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\pic_20019.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\pic_20022.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\pic_20033.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\pic_20044.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\QQ图片20150312154838.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\QQ图片20151218155711.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\QQ图片20151218155830.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\QQ图片20160322150209.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\QQ图片20160324084730.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\QQ图片20160324084800.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\QQ图片20160324084810.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\QQ图片20160324084821.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0009.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0069.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0070.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0075.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0095.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0109.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0127.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0128.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0144.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0147.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0154.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0159.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0163.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0180.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0208.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0266.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0272.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0273.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0282.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0335.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0348.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0349.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0378.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0383.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0387.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0536.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0622.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0661.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0665.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0679.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0772.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0773.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0777.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0875.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0897.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC0911.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC1087.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\_DSC1465.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\一卷.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\一台.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\一小党员干部教师书面测试活动.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\一小党员干部教师书面测试活动2.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\一小领导干部学习党纪条规.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\一石.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\习惯研讨会1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\习惯研讨会2.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\书法作品展1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\书法作品展2.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\交接大队旗.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\交流会.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\低年级习惯培养研讨会1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\低年级习惯培养研讨会2.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\体育节1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\体育节2.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\体育节3.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\体质健康测试赛1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\体质健康测试赛2.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\健康测试1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\健康测试2.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\健康测试3.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\六1书社.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\关爱女性健康1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\创新杯试讲讲课_20112.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\创新杯试讲讲课_20113.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\和雅园.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\品茶悟道1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\品茶悟道2.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\图片4.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\大峪一小建队日庆祝活动.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\大峪一小建队日庆祝活动2.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\大峪一小建队日庆祝活动3.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\大门全景.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\学习《准则》和《条例》党课.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\学习《准则》和《条例》党课_203.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\学校全景.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\寻找身边的小雷锋​1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\寻找身边的小雷锋​2.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\寻找身边的小雷锋​3.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\我们开园了2_20%281%29.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\我们开园了2_20%282%29.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\揭牌仪式.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\揭牌仪式1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\新大队委就职演讲.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\新大队委致新学期寄语.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\最美教师师德演讲1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\树德园-2.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\校长.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\正门.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\照片_20002.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\照片_20004.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\照片_20012.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\照片_20019.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\照片_20474.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\照片_20476.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\照片_20505.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\班主任工作计划交流会1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\班主任考核.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\班主任考核1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\班主任考核2.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\第三届北京国际徒步大会1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\第三届北京国际徒步大会2.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\第三届北京国际徒步大会3.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\篮球颁奖1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\篮球颁奖2.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\篮球颁奖3.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\讲堂.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\讲堂2.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\课题结题二等奖.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\贾新宇_20.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\跳绳比赛1.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\跳绳比赛2.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\迈好新学期第一步1.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\迈好新学期第一步2.JPG" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\运动会.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\运动会2.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\高宏梅.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\高宏梅证书.jpg" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\鸟瞰图.JPG" />
+    <Content Include="DYYX\Attatchment\LinkContent\LinkContent20160918024839201604011318435148.jpg" />
+    <Content Include="DYYX\Attatchment\LinkContent\LinkContent20160918024901201605271057539481.jpg" />
+    <Content Include="DYYX\Attatchment\LinkContent\LinkContent20160918025046defaultimg.jpg" />
+    <Content Include="DYYX\Attatchment\LinkContent\LinkContent20160918025122201505312115197285.png" />
+    <Content Include="DYYX\Attatchment\LinkContent\LinkContent20160918025306201606071430387097.jpg" />
+    <Content Include="DYYX\Attatchment\LinkContent\LinkContent20160918030454defaultteacher.jpg" />
+    <Content Include="DYYX\Attatchment\LinkContent\LinkContent20160918030705201606071430387097.jpg" />
+    <Content Include="DYYX\Attatchment\LinkContent\LinkContent20160918030936201604011318435148.jpg" />
+    <Content Include="DYYX\Attatchment\LinkContent\LinkContent20160918031152QQ图片20160712142622.jpg" />
+    <Content Include="DYYX\Attatchment\LinkContent\LinkContent2016091803120720160406153441_27486.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\20140807_162437.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\DSC00466.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\DSC00635.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\DSC03420.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\DSC06590.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\DSCN1672.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\DSC_0004.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\DSC_1087.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\DSC_1726.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\IMG_0693.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\IMG_3328.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\IMG_5939.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\IMG_6427.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\IMG_9001_small.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\P1050918.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\P1070062.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\psb.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\QQ图片20150320112802.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\_DSC0156.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\_DSC1027.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\“服务促和谐，聚力谋发展”庆三八茶文化知识讲座.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\个人简历生活照_20葛雪臻.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\于学武.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\于德英.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\代小婷.png" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\任全霞.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\党员读书交流活动.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\党员践行承诺参与校园管理活动.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\公共礼仪知识讲座.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\冯秀红.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\刘作红.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\刘文波.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\刘晓欣.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\刘睿照片.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\刘芳-英语-愉快的工作，健康的生活.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\刘赛娜.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\区教师表彰会上校长为我校全国优秀教师刘文波宣读颁奖词.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\史云凤.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\史亚娟照片.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\吕建华.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\吴桂芹.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\周爽照片.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\唐艳_20英语_20博学之,审问之,慎思之,明辨之,笃行之。.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\孔令全工作照1_副本.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\学校文化建设交流研讨会.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\安松芳.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\师德大讨论活动.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\张娜-业精于勤荒于嬉，行成于思毁于随.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\张宁彦1.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\张来如IMG_20140424_140853.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\张艳华.png" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\张颖.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\彭伟——书法——真心实意，身体力行。.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\我的新围脖.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\教师节庆教龄活动.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\教职工休闲一刻活动.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\教职工包饺子比赛.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\曹小玲.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\曹玉品.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\李兆华.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\李婧怡.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\李建敏.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\李彩萍.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\李文才.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\李玉荣.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\李红霞.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\李迪.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\李长波.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\李雷.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\杜丽萍.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\杜淼.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\杨士群照片.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\杨晨照片.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\杨红岩.png" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\梁燕.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\梁英环.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\殷雪莲.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\潘宏琳.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\照片_20151.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\熊建丽.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\牛建茹.png" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\王学娥照片.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\王朝安——生命不息，奋斗不止.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\王海波照片.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\王海鸥.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\王消冰.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\王涛.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\王静.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\白丽莉.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\组团参与徒步大会活动.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\肖翠萍.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\臧金华.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\艾天静.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\艾彦华.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\艾迎芬.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\苏萌萌.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\蔡娜娜.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\解放思想大讨论活动.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\谭政红.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\贾朝雪.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\赵冬梅.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\赵净.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\赵淑英_20英语_20千教万教教人求真，千学万学学做真人_20_20.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\践行核心价值观_20健康快乐分享交流.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\退休教师关注学校发展座谈会.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\邵闫屏.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\郭春华照片.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\闫英刚照片.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\陆梦侨.png" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\韩丽萍.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\马栋.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\马海亮.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\马炳新.jpg" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\马红梅.JPG" />
+    <Content Include="DYYX\Attatchment\SchoolStyle\高宏梅.JPG" />
     <Content Include="DYYX\bottom.aspx" />
     <Content Include="Admin\AdminCss\animate.css" />
     <Content Include="Admin\AdminCss\common.css" />
@@ -214,6 +822,484 @@
     <Content Include="DYYX\js\layout.js" />
     <Content Include="DYYX\video\movie.mp4" />
     <Content Include="Global.asax" />
+    <Content Include="Handler\ffmpeg.exe" />
+    <Content Include="HtmlPage1.html" />
+    <Content Include="HZNWIndex.aspx" />
+    <Content Include="HZNW\Attatchment\1.jpg" />
+    <Content Include="HZNW\Attatchment\2.jpg" />
+    <Content Include="HZNW\Attatchment\2015112012155618008.jpg" />
+    <Content Include="HZNW\Attatchment\20154911174414439.jpg" />
+    <Content Include="HZNW\Attatchment\2015548424971370.jpg" />
+    <Content Include="HZNW\Attatchment\2015548434173458.jpg" />
+    <Content Include="HZNW\Attatchment\2015548443847706.jpg" />
+    <Content Include="HZNW\Attatchment\201562414293473025.jpg" />
+    <Content Include="HZNW\Attatchment\201562414312471906.jpg" />
+    <Content Include="HZNW\Attatchment\2016031515472129269.JPG" />
+    <Content Include="HZNW\Attatchment\2016040609192620554.jpg" />
+    <Content Include="HZNW\Attatchment\2016040609192689477.jpg" />
+    <Content Include="HZNW\Attatchment\2016040609193906219.jpg" />
+    <Content Include="HZNW\Attatchment\2016040609193955067.jpg" />
+    <Content Include="HZNW\Attatchment\2016年3月10日教委副主任来校调研_副本.jpg" />
+    <Content Include="HZNW\Attatchment\22.jpg" />
+    <Content Include="HZNW\Attatchment\223.jpg" />
+    <Content Include="HZNW\Attatchment\24.jpg" />
+    <Content Include="HZNW\Attatchment\3.png" />
+    <Content Include="HZNW\Attatchment\331.jpg" />
+    <Content Include="HZNW\Attatchment\332.jpg" />
+    <Content Include="HZNW\Attatchment\441.jpg" />
+    <Content Include="HZNW\Attatchment\442.jpg" />
+    <Content Include="HZNW\Attatchment\canguan.jpg" />
+    <Content Include="HZNW\Attatchment\dmsj.jpg" />
+    <Content Include="HZNW\Attatchment\dmsj2.jpg" />
+    <Content Include="HZNW\Attatchment\dmsj3.jpg" />
+    <Content Include="HZNW\Attatchment\lianghui.jpg" />
+    <Content Include="HZNW\Attatchment\mrmf.jpg" />
+    <Content Include="HZNW\Attatchment\mrmf2.jpg" />
+    <Content Include="HZNW\Attatchment\szsj.jpg" />
+    <Content Include="HZNW\Attatchment\szsj2.jpg" />
+    <Content Include="HZNW\Attatchment\ys.jpg" />
+    <Content Include="HZNW\Attatchment\ys2.jpg" />
+    <Content Include="HZNW\Attatchment\俯瞰校园.JPG" />
+    <Content Include="HZNW\Attatchment\俯瞰校园_20%282%29.JPG" />
+    <Content Include="HZNW\Attatchment\党总支书记吴世霞向全体教职工做履责承诺.jpg" />
+    <Content Include="HZNW\Attatchment\参赛选手李雅倩及其获奖作品.jpg" />
+    <Content Include="HZNW\Attatchment\头图.JPG" />
+    <Content Include="HZNW\Attatchment\学前教育.jpg" />
+    <Content Include="HZNW\Attatchment\市级非物质文化遗产.jpg" />
+    <Content Include="HZNW\Attatchment\情融校园美丽黄职_27——践行社会主义核心价值观歌咏比赛.jpg" />
+    <Content Include="HZNW\Attatchment\校园一角.JPG" />
+    <Content Include="HZNW\bottom.aspx" />
+    <Content Include="HZNW\Category\DepartmentFooter.aspx" />
+    <Content Include="HZNW\Category\DepartmentHeader.aspx" />
+    <Content Include="HZNW\Category\DepartmentIndex.aspx" />
+    <Content Include="HZNW\Category\DepartmentBeforeItemList.aspx" />
+    <Content Include="HZNW\Category\DepartmentBeforeList.aspx" />
+    <Content Include="HZNW\Category\DepartmentScrollList.aspx" />
+    <Content Include="HZNW\Category\DepartmentBeforeView.aspx" />
+    <Content Include="HZNW\css\depart_FWXB.css" />
+    <Content Include="HZNW\css\depart_JSXB.css" />
+    <Content Include="HZNW\css\depart_YSXB.css" />
+    <Content Include="HZNW\css\depart_JYXB.css" />
+    <Content Include="HZNW\css\iconfont.css" />
+    <Content Include="HZNW\css\iconfont.svg" />
+    <Content Include="HZNW\css\layout.css" />
+    <Content Include="HZNW\css\reset.css" />
+    <Content Include="HZNW\Header.aspx" />
+    <Content Include="HZNW\HZNWLogin.aspx" />
+    <Content Include="HZNW\images\1.jpg" />
+    <Content Include="HZNW\images\22.jpg" />
+    <Content Include="HZNW\images\331.jpg" />
+    <Content Include="HZNW\images\441.jpg" />
+    <Content Include="HZNW\images\ajax-loader.gif" />
+    <Content Include="HZNW\images\artdepartment.png" />
+    <Content Include="HZNW\images\detail_bg_01.jpg" />
+    <Content Include="HZNW\images\detail_bg_02.jpg" />
+    <Content Include="HZNW\images\xuanfuchuang.png" />
+    <Content Include="HZNW\images\YSXB_banner.jpg" />
+    <Content Include="HZNW\images\banner.jpg" />
+    <Content Include="HZNW\images\banner.png" />
+    <Content Include="HZNW\images\banner_01.jpg" />
+    <Content Include="HZNW\images\bg_02.png" />
+    <Content Include="HZNW\images\bimo.png" />
+    <Content Include="HZNW\images\bimo1.png" />
+    <Content Include="HZNW\images\concant.jpg" />
+    <Content Include="HZNW\images\datebg01.png" />
+    <Content Include="HZNW\images\datebg02.png" />
+    <Content Include="HZNW\images\datebg03.png" />
+    <Content Include="HZNW\images\datebg04.png" />
+    <Content Include="HZNW\images\datebg05.png" />
+    <Content Include="HZNW\images\detail_bg.png" />
+    <Content Include="HZNW\images\detail_bg1.png" />
+    <Content Include="HZNW\images\detail_bg2.png" />
+    <Content Include="HZNW\images\detail_bg3.png" />
+    <Content Include="HZNW\images\detail_bg4.png" />
+    <Content Include="HZNW\images\educatedepartment.png" />
+    <Content Include="HZNW\images\JYXB_banner.jpg" />
+    <Content Include="HZNW\images\enter_YSXB.jpg" />
+    <Content Include="HZNW\images\enter_JYXB.jpg" />
+    <Content Include="HZNW\images\enter_FWXB.jpg" />
+    <Content Include="HZNW\images\enter_JSXB.jpg" />
+    <Content Include="HZNW\images\favicon.ico" />
+    <Content Include="HZNW\images\icon01.png" />
+    <Content Include="HZNW\images\lefttitle_bg.png" />
+    <Content Include="HZNW\images\left_navng.png" />
+    <Content Include="HZNW\images\link_01.jpg" />
+    <Content Include="HZNW\images\link_02.jpg" />
+    <Content Include="HZNW\images\link_03.jpg" />
+    <Content Include="HZNW\images\link_04.jpg" />
+    <Content Include="HZNW\images\link_05.jpg" />
+    <Content Include="HZNW\images\link_06.jpg" />
+    <Content Include="HZNW\images\link_07.jpg" />
+    <Content Include="HZNW\images\li_bg.png" />
+    <Content Include="HZNW\images\logo.png" />
+    <Content Include="HZNW\images\modult_bg.png" />
+    <Content Include="HZNW\images\more.png" />
+    <Content Include="HZNW\images\more1.png" />
+    <Content Include="HZNW\images\more2.png" />
+    <Content Include="HZNW\images\more3.png" />
+    <Content Include="HZNW\images\motto.png" />
+    <Content Include="HZNW\images\nav_rightbg.png" />
+    <Content Include="HZNW\images\nav_shadow.png" />
+    <Content Include="HZNW\images\newlunbo.png" />
+    <Content Include="HZNW\images\password.png" />
+    <Content Include="HZNW\images\people.png" />
+    <Content Include="HZNW\images\point.png" />
+    <Content Include="HZNW\images\quickenterbtn_01.jpg" />
+    <Content Include="HZNW\images\quickenterbtn_02.jpg" />
+    <Content Include="HZNW\images\quickenterbtn_03.jpg" />
+    <Content Include="HZNW\images\right_bottom.png" />
+    <Content Include="HZNW\images\school_img_01.jpg" />
+    <Content Include="HZNW\images\school_img.jpg" />
+    <Content Include="HZNW\images\serverdepartment.png" />
+    <Content Include="HZNW\images\FWXB_banner.jpg" />
+    <Content Include="HZNW\images\skilldepartment.png" />
+    <Content Include="HZNW\images\JSXB_banner.jpg" />
+    <Content Include="HZNW\images\sprite-clean.png" />
+    <Content Include="HZNW\images\sprites1008.png" />
+    <Content Include="HZNW\images\tel.png" />
+    <Content Include="HZNW\images\three_title.png" />
+    <Content Include="HZNW\images\tupian01.png" />
+    <Content Include="HZNW\images\xian_bg_05.png" />
+    <Content Include="HZNW\images\yzm.png" />
+    <Content Include="HZNW\js\common.js" />
+    <Content Include="HZNW\js\jquery-1.11.0.min.js" />
+    <Content Include="HZNW\js\jquery.SuperSlide.2.1.1.js" />
+    <Content Include="HZNW\js\js.js" />
+    <Content Include="HZNW\js\layout.js" />
+    <Content Include="HZNW\SitePages\BeforeItemList.aspx" />
+    <Content Include="HZNW\SitePages\BeforeList.aspx" />
+    <Content Include="HZNW\SitePages\BeforeScrollList.aspx" />
+    <Content Include="HZNW\SitePages\BeforeView.aspx" />
+    <Content Include="HZZSIndex.aspx" />
+    <Content Include="HZZS\Attatchment\1.jpg" />
+    <Content Include="HZZS\Attatchment\1.png" />
+    <Content Include="HZZS\Attatchment\2.jpg" />
+    <Content Include="HZZS\Attatchment\2.png" />
+    <Content Include="HZZS\Attatchment\200812492047709.jpg" />
+    <Content Include="HZZS\Attatchment\201041142041947.jpg" />
+    <Content Include="HZZS\Attatchment\2011418154216347.jpg" />
+    <Content Include="HZZS\Attatchment\2011418154235594.jpg" />
+    <Content Include="HZZS\Attatchment\2015智能家居赛项获第二名.jpg" />
+    <Content Include="HZZS\Attatchment\2015综合布线团队三等奖.jpg" />
+    <Content Include="HZZS\Attatchment\2015网络组建团队三等奖.jpg" />
+    <Content Include="HZZS\Attatchment\2015网络组建团队获第四名.jpg" />
+    <Content Include="HZZS\Attatchment\3.jpg" />
+    <Content Include="HZZS\Attatchment\4.jpg" />
+    <Content Include="HZZS\Attatchment\5.jpg" />
+    <Content Include="HZZS\Attatchment\6.jpg" />
+    <Content Include="HZZS\Attatchment\7.jpg" />
+    <Content Include="HZZS\Attatchment\中餐烹饪与营养膳食.jpg" />
+    <Content Include="HZZS\Attatchment\丰富多彩的入场表演.jpg" />
+    <Content Include="HZZS\Attatchment\动漫与游戏制作.jpg" />
+    <Content Include="HZZS\Attatchment\动漫专业获奖选手与辅导老师合影.jpg" />
+    <Content Include="HZZS\Attatchment\名家送晚.jpg" />
+    <Content Include="HZZS\Attatchment\就业1.jpg" />
+    <Content Include="HZZS\Attatchment\山水邀月.jpg" />
+    <Content Include="HZZS\Attatchment\广场秋实.jpg" />
+    <Content Include="HZZS\Attatchment\接力运动员风采.jpg" />
+    <Content Include="HZZS\Attatchment\旅服专业师生合影.jpg" />
+    <Content Include="HZZS\Attatchment\旅游服务与管理.jpg" />
+    <Content Include="HZZS\Attatchment\服装设计与工艺.jpg" />
+    <Content Include="HZZS\Attatchment\松廊冬雪.jpg" />
+    <Content Include="HZZS\Attatchment\校史馆.jpg" />
+    <Content Include="HZZS\Attatchment\梧林夏花.jpg" />
+    <Content Include="HZZS\Attatchment\烹饪专业表演.jpg" />
+    <Content Include="HZZS\Attatchment\物联网及智能家居参赛师生.jpg" />
+    <Content Include="HZZS\Attatchment\玉石迎晖.jpg" />
+    <Content Include="HZZS\Attatchment\网络组建及综合布线参赛师生.jpg" />
+    <Content Include="HZZS\Attatchment\美容美发专业获奖选手与辅导老师合影.jpg" />
+    <Content Include="HZZS\Attatchment\美容美发于形象设计.jpg" />
+    <Content Include="HZZS\Attatchment\群雕叠翠.jpg" />
+    <Content Include="HZZS\Attatchment\跳远运动员风采.jpg" />
+    <Content Include="HZZS\Attatchment\金融商贸专业金蕊雪获会计技能比赛二等奖.jpg" />
+    <Content Include="HZZS\bottom.aspx" />
+    <Content Include="HZZS\css\layout.css" />
+    <Content Include="HZZS\css\reset.css" />
+    <Content Include="HZZS\Header.aspx" />
+    <Content Include="HZZS\HZZSLogin.aspx" />
+    <Content Include="HZZS\images\banner_01.jpg" />
+    <Content Include="HZZS\images\banner_02.jpg" />
+    <Content Include="HZZS\images\banner_03.jpg" />
+    <Content Include="HZZS\images\bimo.png" />
+    <Content Include="HZZS\images\detail_bg.png" />
+    <Content Include="HZZS\images\detail_bg_01.png" />
+    <Content Include="HZZS\images\detail_bg_02.png" />
+    <Content Include="HZZS\images\icon.png" />
+    <Content Include="HZZS\images\left_navng.png" />
+    <Content Include="HZZS\images\link1.jpg" />
+    <Content Include="HZZS\images\link2.jpg" />
+    <Content Include="HZZS\images\link3.jpg" />
+    <Content Include="HZZS\images\link4.jpg" />
+    <Content Include="HZZS\images\link5.jpg" />
+    <Content Include="HZZS\images\link6.jpg" />
+    <Content Include="HZZS\images\link7.jpg" />
+    <Content Include="HZZS\images\list_tu.jpg" />
+    <Content Include="HZZS\images\li_bg.png" />
+    <Content Include="HZZS\images\logo.png" />
+    <Content Include="HZZS\images\nav_bg.png" />
+    <Content Include="HZZS\images\nav_rightbg.png" />
+    <Content Include="HZZS\images\password.png" />
+    <Content Include="HZZS\images\people.png" />
+    <Content Include="HZZS\images\point.png" />
+    <Content Include="HZZS\images\right_bottom.png" />
+    <Content Include="HZZS\images\sprites1008.png" />
+    <Content Include="HZZS\images\three_title.png" />
+    <Content Include="HZZS\images\yzm.png" />
+    <Content Include="HZZS\js\common.js" />
+    <Content Include="HZZS\js\jquery-1.11.2.min.js" />
+    <Content Include="HZZS\js\jquery.SuperSlide.2.1.1.js" />
+    <Content Include="HZZS\Sitepages\BeforeItemList.aspx" />
+    <Content Include="HZZS\Sitepages\BeforeList.aspx" />
+    <Content Include="HZZS\Sitepages\BeforeScrollList.aspx" />
+    <Content Include="HZZS\Sitepages\BeforeView.aspx" />
+    <Content Include="loadding.html" />
+    <Content Include="PreschoolIndex.aspx" />
+    <Content Include="PreSchool\css\reset.css" />
+    <Content Include="PreSchool\css\style.css" />
+    <Content Include="PreSchool\footer.html" />
+    <Content Include="PreSchool\images\AfterLogo.png" />
+    <Content Include="PreSchool\images\a_01.jpg" />
+    <Content Include="PreSchool\images\a_02.jpg" />
+    <Content Include="PreSchool\images\a_03.jpg" />
+    <Content Include="PreSchool\images\banner.jpg" />
+    <Content Include="PreSchool\images\bg.jpg" />
+    <Content Include="PreSchool\images\bg11.jpg" />
+    <Content Include="PreSchool\images\bird.png" />
+    <Content Include="PreSchool\images\caipin1.png" />
+    <Content Include="PreSchool\images\caipin2.png" />
+    <Content Include="PreSchool\images\caipin3.png" />
+    <Content Include="PreSchool\images\caipin4.png" />
+    <Content Include="PreSchool\images\caipin5.png" />
+    <Content Include="PreSchool\images\caipin_bg.png" />
+    <Content Include="PreSchool\images\child_03.jpg" />
+    <Content Include="PreSchool\images\common.png" />
+    <Content Include="PreSchool\images\dean.png" />
+    <Content Include="PreSchool\images\deans.jpg" />
+    <Content Include="PreSchool\images\DeveEdu_bg_01.png" />
+    <Content Include="PreSchool\images\DeveEdu_bg_02.png" />
+    <Content Include="PreSchool\images\DeveEdu_bg_03.png" />
+    <Content Include="PreSchool\images\edumews.png" />
+    <Content Include="PreSchool\images\EduRes_bg_01.png" />
+    <Content Include="PreSchool\images\EduRes_bg_02.png" />
+    <Content Include="PreSchool\images\EduRes_bg_03.png" />
+    <Content Include="PreSchool\images\elephant.png" />
+    <Content Include="PreSchool\images\email_bg.png" />
+    <Content Include="PreSchool\images\emblem_IMG.jpg" />
+    <Content Include="PreSchool\images\foo.jpg" />
+    <Content Include="PreSchool\images\footer_bg.png" />
+    <Content Include="PreSchool\images\homeedu_bg.jpg" />
+    <Content Include="PreSchool\images\homeedu_bg_01.png" />
+    <Content Include="PreSchool\images\homeedu_bg_02.png" />
+    <Content Include="PreSchool\images\homeedu_bg_03.png" />
+    <Content Include="PreSchool\images\home_03.png" />
+    <Content Include="PreSchool\images\home_titlebg.png" />
+    <Content Include="PreSchool\images\hygiene.png" />
+    <Content Include="PreSchool\images\hygiene_03.png" />
+    <Content Include="PreSchool\images\hygiene_bg_01.png" />
+    <Content Include="PreSchool\images\hygiene_bg_02.png" />
+    <Content Include="PreSchool\images\hygiene_bg_03.png" />
+    <Content Include="PreSchool\images\hypiene_05.png" />
+    <Content Include="PreSchool\images\img1.jpg" />
+    <Content Include="PreSchool\images\in.jpg" />
+    <Content Include="PreSchool\images\index_bg_01.png" />
+    <Content Include="PreSchool\images\index_bg_02.png" />
+    <Content Include="PreSchool\images\index_bg_03.png" />
+    <Content Include="PreSchool\images\introduce.png" />
+    <Content Include="PreSchool\images\leftnav_bg.png" />
+    <Content Include="PreSchool\images\leftnav_bg_01.png" />
+    <Content Include="PreSchool\images\leftnav_bg_02.png" />
+    <Content Include="PreSchool\images\leftnav_bg_03.png" />
+    <Content Include="PreSchool\images\line.png" />
+    <Content Include="PreSchool\images\link_01.png" />
+    <Content Include="PreSchool\images\link_02.jpg" />
+    <Content Include="PreSchool\images\link_bg.png" />
+    <Content Include="PreSchool\images\list_img_01.jpg" />
+    <Content Include="PreSchool\images\list_img_02.jpg" />
+    <Content Include="PreSchool\images\login.png" />
+    <Content Include="PreSchool\images\loginbtn.png" />
+    <Content Include="PreSchool\images\logo.png" />
+    <Content Include="PreSchool\images\luntu_01.png" />
+    <Content Include="PreSchool\images\luntu_02.jpg" />
+    <Content Include="PreSchool\images\luntu_03.png" />
+    <Content Include="PreSchool\images\mao.png" />
+    <Content Include="PreSchool\images\more2.png" />
+    <Content Include="PreSchool\images\nationalflag.jpg" />
+    <Content Include="PreSchool\images\nav_bg.jpg" />
+    <Content Include="PreSchool\images\news.png" />
+    <Content Include="PreSchool\images\notice.png" />
+    <Content Include="PreSchool\images\panda.png" />
+    <Content Include="PreSchool\images\ParkProfile_bg_01.png" />
+    <Content Include="PreSchool\images\ParkProfile_bg_02.png" />
+    <Content Include="PreSchool\images\ParkProfile_bg_03.png" />
+    <Content Include="PreSchool\images\park_01.png" />
+    <Content Include="PreSchool\images\park_02.png" />
+    <Content Include="PreSchool\images\partyunicon.jpg" />
+    <Content Include="PreSchool\images\PartyUnion_bg_01.png" />
+    <Content Include="PreSchool\images\PartyUnion_bg_02.png" />
+    <Content Include="PreSchool\images\PartyUnion_bg_03.png" />
+    <Content Include="PreSchool\images\party_inner.jpg" />
+    <Content Include="PreSchool\images\party_left.jpg" />
+    <Content Include="PreSchool\images\party_right.jpg" />
+    <Content Include="PreSchool\images\photo.png" />
+    <Content Include="PreSchool\images\PracRes_bg_01.png" />
+    <Content Include="PreSchool\images\PracRes_bg_02.png" />
+    <Content Include="PreSchool\images\PracRes_bg_03.png" />
+    <Content Include="PreSchool\images\recipe.png" />
+    <Content Include="PreSchool\images\ren1.png" />
+    <Content Include="PreSchool\images\righttop.png" />
+    <Content Include="PreSchool\images\SocialDeve_bg_01.png" />
+    <Content Include="PreSchool\images\SocialDeve_bg_02.png" />
+    <Content Include="PreSchool\images\SocialDeve_bg_03.png" />
+    <Content Include="PreSchool\images\social_03.png" />
+    <Content Include="PreSchool\images\sprite-clean.png" />
+    <Content Include="PreSchool\images\sprite4.png" />
+    <Content Include="PreSchool\images\sprite3.png" />
+    <Content Include="PreSchool\images\sprite1.png" />
+    <Content Include="PreSchool\images\sprite2.png" />
+    <Content Include="PreSchool\images\sprite5.png" />
+    <Content Include="PreSchool\images\sprite6.png" />
+    <Content Include="PreSchool\images\survey_bg.png" />
+    <Content Include="PreSchool\images\teachedu.jpg" />
+    <Content Include="PreSchool\images\TeachEdu_bg_01.png" />
+    <Content Include="PreSchool\images\TeachEdu_bg_02.png" />
+    <Content Include="PreSchool\images\TeachEdu_bg_03.png" />
+    <Content Include="PreSchool\images\teacher_img_00.jpg" />
+    <Content Include="PreSchool\images\teacher_img_01.jpg" />
+    <Content Include="PreSchool\images\teacher_img_02.jpg" />
+    <Content Include="PreSchool\images\teacher_img_03.jpg" />
+    <Content Include="PreSchool\images\teacher_img_04.jpg" />
+    <Content Include="PreSchool\images\teacher_img_05.jpg" />
+    <Content Include="PreSchool\images\teacher_img_06.jpg" />
+    <Content Include="PreSchool\images\teacher_img_07.jpg" />
+    <Content Include="PreSchool\images\teacher_img_08.jpg" />
+    <Content Include="PreSchool\images\teacher_img_09.jpg" />
+    <Content Include="PreSchool\images\tile_07.png" />
+    <Content Include="PreSchool\images\tips_zi.png" />
+    <Content Include="PreSchool\images\tip_bg.png" />
+    <Content Include="PreSchool\images\title42.png" />
+    <Content Include="PreSchool\images\title_01.png" />
+    <Content Include="PreSchool\images\title_02.png" />
+    <Content Include="PreSchool\images\title_03.png" />
+    <Content Include="PreSchool\images\title_04.png" />
+    <Content Include="PreSchool\images\title_bg.png" />
+    <Content Include="PreSchool\images\title_bg_03.png" />
+    <Content Include="PreSchool\images\tu.png" />
+    <Content Include="PreSchool\images\tu1.png" />
+    <Content Include="PreSchool\images\tueq_04.png" />
+    <Content Include="PreSchool\images\tueq_center.png" />
+    <Content Include="PreSchool\images\tu_left.png" />
+    <Content Include="PreSchool\images\tu_left1.png" />
+    <Content Include="PreSchool\images\tu_right.png" />
+    <Content Include="PreSchool\images\tu_right1.png" />
+    <Content Include="PreSchool\images\tueq_left.png" />
+    <Content Include="PreSchool\images\tueq_right.png" />
+    <Content Include="PreSchool\images\家园共育_03.png" />
+    <Content Include="PreSchool\images\家园共育_05.png" />
+    <Content Include="PreSchool\js\common.js" />
+    <Content Include="PreSchool\js\html5shiv.min.js" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\buffer.gif" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\logo.png" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\skin.css" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\skin.html" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\liveOrange\skin.js" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\bg.jpg" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\buffer.png" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\controlbarbg.jpg" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\skin.css" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\skin.html" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\liveRadio\skin.js" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\buffer.gif" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\logo.png" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\skin.css" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\skin.html" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\liveWhite\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\buffer.gif" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\clarity_btn_bg.png" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodFlowPlayer\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\buffer.gif" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\clarity_btn_bg.png" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodFoream\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\buffer.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodMobileTransparent\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\buffer.gif" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodMobileWhite\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\buffer.png" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodOrange\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\buffer.png" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodTransparent\skin.js" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\big_play_btn.png" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\buffer.gif" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\controlbar.png" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\logo.png" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\skin.css" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\skin.html" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\skin.html.js" />
+    <Content Include="PreSchool\js\html\skins\vodWhite\skin.js" />
+    <Content Include="PreSchool\js\jquery.SuperSlide.2.1.1.js" />
+    <Content Include="PreSchool\js\selectivizr-min.js" />
+    <Content Include="PreSchool\js\sewise.player.min.js" />
+    <Content Include="PreSchool\nav.html" />
+    <Content Include="PreSchool\PreSchoolLogin.aspx" />
+    <Content Include="PreSchool\SitePages\BeforeItemList.aspx" />
+    <Content Include="PreSchool\SitePages\BeforeList.aspx" />
+    <Content Include="PreSchool\SitePages\BeforeView.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryDeveEdu.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryEduRes.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryHomeEdu.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryHygiene.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryParkProfile.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryPartyUnion.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryPracRes.aspx" />
+    <Content Include="PreSchool\SitePages\CategorySocialDeve.aspx" />
+    <Content Include="PreSchool\SitePages\CategoryTeachEdu.aspx" />
+    <Content Include="PreSchool\SitePages\NoticeList.aspx" />
+    <Content Include="PreSchool\SitePages\NoticeView.aspx" />
+    <Content Include="PreSchool\SitePages\TwoLevelCommon.js" />
+    <Content Include="PreSchool\Survey.html" />
     <Content Include="Scripts\ajaxfileupload.js" />
     <Content Include="Scripts\flash\video-js.css" />
     <Content Include="Scripts\flash\video.js" />
@@ -707,7 +1793,158 @@
     <Content Include="Admin\AdminCss\iconfont.eot" />
     <Content Include="Admin\AdminCss\iconfont.ttf" />
     <Content Include="Admin\AdminCss\iconfont.woff" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\党员责任岗.doc" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\大峪一小党支部党风廉政建设责任制领导小组及责任分工.doc" />
+    <Content Include="DYYX\Attatchment\AdvertImgContent\门头沟区大峪第一小学党支部组织机构图.doc" />
     <Content Include="Handler\WordOpenHTML.ashx" />
+    <Content Include="TEST_ASP.aspx" />
+    <Content Include="YQSYIndex.aspx" />
+    <Content Include="YQSY\bottom.aspx" />
+    <Content Include="YQSY\css\layout.css" />
+    <Content Include="YQSY\css\reset.css" />
+    <Content Include="YQSY\Header.aspx" />
+    <Content Include="YQSY\images\contents_pic1.jpg" />
+    <Content Include="YQSY\images\contents_pic2.jpg" />
+    <Content Include="YQSY\images\contents_pic3.jpg" />
+    <Content Include="YQSY\images\contents_pic4.jpg" />
+    <Content Include="YQSY\images\contents_pic5.jpg" />
+    <Content Include="YQSY\images\contents_pic6.jpg" />
+    <Content Include="YQSY\images\contents_pic7.jpg" />
+    <Content Include="YQSY\images\contents_pic8.jpg" />
+    <Content Include="YQSY\images\contents_pic9.jpg" />
+    <Content Include="YQSY\images\icon.png" />
+    <Content Include="YQSY\images\icon01.png" />
+    <Content Include="YQSY\images\logo.png" />
+    <Content Include="YQSY\images\nav_bg.png" />
+    <Content Include="YQSY\images\police.png" />
+    <Content Include="YQSY\js\common.js" />
+    <Content Include="YQSY\js\jquery.SuperSlide.2.1.1.js" />
+    <Content Include="YQSY\SitePages\BeforeItemList.aspx" />
+    <Content Include="YQSY\SitePages\BeforeView.aspx" />
+    <Content Include="YQSY\YQSYLogin.aspx" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\1.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\10.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\11.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\12.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\13.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\14.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\15.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\16.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\17.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\18.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\19.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2011111116243921.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2011111116359547.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2012102992547433.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2012102992626560.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2012102992710407.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2012102992721805.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2012926145437414.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2012926145459807.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\201292614546535.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2012926145527988.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2012926145621734.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\201332516136556.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\201332516145253.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\201332516156595.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2013328153647797.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2013328153717273.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2013328153736807.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2013328153828394.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\201332815385663.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2013328153859350.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2014101485138227.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2014101485222664.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2014101485255320.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\20151218163419553.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\20151218163440654.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\20151218163457267.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\201671211232338.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\22.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\3.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\33.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\44.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\5.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\55.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\6.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\66.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\7.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\77.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\8.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\9.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\a.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\AdvertContent20160922045404banner.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\AdvertContent20160922045421banner1.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\AdvertContent20160922045437banner2.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\b.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\c.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\d.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\f.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\mmexport1468582247424.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\showimg.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\春华秋实.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\春华秋实.png" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\校园一角.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\求索.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\王维锁.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\苏广清.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\陶校长1.jpg" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\风景独好.jpg" />
+    <Content Include="YQYZ\Attatchment\SchoolStyle\201161785836855.jpg" />
+    <Content Include="YQYZ\Attatchment\SchoolStyle\201161785910453.jpg" />
+    <Content Include="YQYZ\Attatchment\SchoolStyle\icxls.png" />
+    <Content Include="YQYZ\Attatchment\SchoolStyle\许铁成.png" />
+    <Content Include="YQYZ\Attatchment\SchoolStyle\赵春青.jpg" />
+    <Content Include="YQYZ\bottom.aspx" />
+    <Content Include="YQYZ\images\710.jpg" />
+    <Content Include="YQYZ\images\default.jpg" />
+    <Content Include="YQYZ\images\notice.png" />
+    <Content Include="YQYZ\images\password.png" />
+    <Content Include="YQYZ\images\people.png" />
+    <Content Include="YQYZ\images\yzm.png" />
+    <Content Include="YQYZ\js\layer\extend\layer.ext.js" />
+    <Content Include="YQYZ\js\layer\layer.js" />
+    <Content Include="YQYZ\js\layer\skin\default\icon-ext.png" />
+    <Content Include="YQYZ\js\layer\skin\default\icon.png" />
+    <Content Include="YQYZ\js\layer\skin\default\loading-0.gif" />
+    <Content Include="YQYZ\js\layer\skin\default\loading-1.gif" />
+    <Content Include="YQYZ\js\layer\skin\default\loading-2.gif" />
+    <Content Include="YQYZ\js\layer\skin\layer.css" />
+    <Content Include="YQYZ\js\layer\skin\layer.ext.css" />
+    <Content Include="YQYZ\loadding.html" />
+    <Content Include="YQYZ\SitePages\AnnounceNotice.aspx" />
+    <Content Include="YQYZ\SitePages\BeforeVote.aspx" />
+    <Content Include="YQYZ\SitePages\SearchContent.aspx" />
+    <Content Include="YQYZ\top.aspx" />
+    <Content Include="YQYZ\images\ajax-loader.gif" />
+    <Content Include="YQYZ\images\bg.png" />
+    <Content Include="YQYZ\images\linkbg.png" />
+    <Content Include="YQYZ\images\nav_bg.png" />
+    <Content Include="YQYZ\images\sprite-clean.png" />
+    <Content Include="YQYZ\images\titbg.png" />
+    <Content Include="YQYZ\js\common.js" />
+    <Content Include="YQYZ\css\layout2.css" />
+    <Content Include="YQYZ\css\reset.css" />
+    <Content Include="YQYZ\Header.aspx" />
+    <Content Include="YQYZ\images\banner.jpg" />
+    <Content Include="YQYZ\images\banner1.jpg" />
+    <Content Include="YQYZ\images\banner2.jpg" />
+    <Content Include="YQYZ\images\icon%281%29.png" />
+    <Content Include="YQYZ\images\icon.png" />
+    <Content Include="YQYZ\images\icon01.png" />
+    <Content Include="YQYZ\images\inner.jpg" />
+    <Content Include="YQYZ\images\logo1.png" />
+    <Content Include="YQYZ\images\mainbodyLeft_pic1.jpg" />
+    <Content Include="YQYZ\images\point.png" />
+    <Content Include="YQYZ\images\police.png" />
+    <Content Include="YQYZ\js\jquery.SuperSlide.2.1.1.js" />
+    <Content Include="YQYZ\SitePages\BeforeItemList.aspx" />
+    <Content Include="YQYZ\SitePages\BeforeList.aspx" />
+    <Content Include="YQYZ\SitePages\BeforeView.aspx" />
+    <Content Include="YQYZ\SitePages\NoticeList.aspx" />
+    <Content Include="YQYZ\SitePages\NoticeView.aspx" />
+    <Content Include="YQYZIndex.aspx" />
     <Content Include="Admin\font\fontawesome-webfont.eot" />
     <Content Include="Admin\font\fontawesome-webfont.ttf" />
     <Content Include="Admin\font\fontawesome-webfont.woff" />
@@ -715,6 +1952,111 @@
     <Content Include="DYYX\大峪一小门户系统_用户手册.docx" />
     <Content Include="config.json" />
     <Content Include="Handler\CommonInfo.ashx" />
+    <Content Include="HZNW\css\iconfont.eot" />
+    <Content Include="HZNW\css\iconfont.ttf" />
+    <Content Include="HZNW\css\iconfont.woff" />
+    <Content Include="YQYZ\YQYZLogin.aspx" />
+    <Content Include="YQZJIndex.aspx" />
+    <Content Include="YQZJ\bottom.aspx" />
+    <Content Include="YQZJ\css\layout.css" />
+    <Content Include="YQZJ\css\reset.css" />
+    <Content Include="YQZJ\Header.aspx" />
+    <Content Include="YQZJ\images\1.png" />
+    <Content Include="YQZJ\images\2.png" />
+    <Content Include="YQZJ\images\ajax-loader.gif" />
+    <Content Include="YQZJ\images\app_01.png" />
+    <Content Include="YQZJ\images\app_02.png" />
+    <Content Include="YQZJ\images\app_03.png" />
+    <Content Include="YQZJ\images\app_04.png" />
+    <Content Include="YQZJ\images\logo2.png" />
+    <Content Include="YQZJ\images\bannergif.gif" />
+    <Content Include="YQZJ\images\bannergif1.gif" />
+    <Content Include="YQZJ\images\bg.png" />
+    <Content Include="YQZJ\images\bg_shadow.png" />
+    <Content Include="YQZJ\images\bimo.png" />
+    <Content Include="YQZJ\images\default.jpg" />
+    <Content Include="YQZJ\images\detail_bg.png" />
+    <Content Include="YQZJ\images\detail_bg01.png" />
+    <Content Include="YQZJ\images\detail_bg1.png" />
+    <Content Include="YQZJ\images\icon01.png" />
+    <Content Include="YQZJ\images\link1.png" />
+    <Content Include="YQZJ\images\link10.jpg" />
+    <Content Include="YQZJ\images\link11.jpg" />
+    <Content Include="YQZJ\images\link12.jpg" />
+    <Content Include="YQZJ\images\link2.png" />
+    <Content Include="YQZJ\images\link3.jpg" />
+    <Content Include="YQZJ\images\link4.jpg" />
+    <Content Include="YQZJ\images\link5.jpg" />
+    <Content Include="YQZJ\images\link6.jpg" />
+    <Content Include="YQZJ\images\link7.jpg" />
+    <Content Include="YQZJ\images\link8.jpg" />
+    <Content Include="YQZJ\images\link9.jpg" />
+    <Content Include="YQZJ\images\li_bg.png" />
+    <Content Include="YQZJ\images\logo1.png" />
+    <Content Include="YQZJ\images\nav_rightbg.png" />
+    <Content Include="YQZJ\images\newlunbo.png" />
+    <Content Include="YQZJ\images\password.png" />
+    <Content Include="YQZJ\images\people.png" />
+    <Content Include="YQZJ\images\point.png" />
+    <Content Include="YQZJ\images\right_bottom.png" />
+    <Content Include="YQZJ\images\sprite-clean.png" />
+    <Content Include="YQZJ\images\three_title.png" />
+    <Content Include="YQZJ\images\tit_bg.png" />
+    <Content Include="YQZJ\images\tit_left.png" />
+    <Content Include="YQZJ\images\voidpic.png" />
+    <Content Include="YQZJ\images\yzm.png" />
+    <Content Include="YQZJ\images\logo.png" />
+    <Content Include="YQZJ\js\common.js" />
+    <Content Include="YQZJ\js\jquery-1.11.0.min.js" />
+    <Content Include="YQZJ\js\jquery.SuperSlide.2.1.1.js" />
+    <Content Include="YQZJ\Sitepages\BeforeItemList.aspx" />
+    <Content Include="YQZJ\Sitepages\BeforeList.aspx" />
+    <Content Include="YQZJ\Sitepages\BeforeView.aspx" />
+    <Content Include="YQZJ\Sitepages\Category.aspx" />
+    <Content Include="YQZJ\YQZJLogin.aspx" />
+    <Content Include="ZZMHIndex.aspx" />
+    <Content Include="ZZMH\css\layout.css" />
+    <Content Include="ZZMH\css\reset.css" />
+    <Content Include="ZZMH\images\33.gif" />
+    <Content Include="ZZMH\images\beian.png" />
+    <Content Include="ZZMH\images\bg.png" />
+    <Content Include="ZZMH\images\jyjt.jpg" />
+    <Content Include="ZZMH\images\login.png" />
+    <Content Include="ZZMH\images\login_hover.png" />
+    <Content Include="ZZMH\images\xhx.png" />
+    <Content Include="ZZMH\default.aspx" />
+    <Content Include="ZZMH\footer.html" />
+    <Content Include="ZZMH\Header.aspx" />
+    <Content Include="ZZMH\images\banner_top.jpg" />
+    <Content Include="ZZMH\images\bg_shadow.png" />
+    <Content Include="ZZMH\images\bimo.png" />
+    <Content Include="ZZMH\images\detail_bg.png" />
+    <Content Include="ZZMH\images\erff.jpg" />
+    <Content Include="ZZMH\images\icon01.png" />
+    <Content Include="ZZMH\images\icon02.png" />
+    <Content Include="ZZMH\images\li_bg.png" />
+    <Content Include="ZZMH\images\logo.png" />
+    <Content Include="ZZMH\images\mtg_02.png" />
+    <Content Include="ZZMH\images\mtg_08.png" />
+    <Content Include="ZZMH\images\mtg_56.png" />
+    <Content Include="ZZMH\images\mtg_58.png" />
+    <Content Include="ZZMH\images\mtg_60.png" />
+    <Content Include="ZZMH\images\mtg_62.png" />
+    <Content Include="ZZMH\images\mtg_64.png" />
+    <Content Include="ZZMH\images\mtg_66.png" />
+    <Content Include="ZZMH\images\nav_rightbg.png" />
+    <Content Include="ZZMH\images\point.png" />
+    <Content Include="ZZMH\images\right_bottom.png" />
+    <Content Include="ZZMH\images\three_title.png" />
+    <Content Include="ZZMH\images\detail.png" />
+    <Content Include="ZZMH\images\xian.png" />
+    <Content Include="ZZMH\js\common.js" />
+    <Content Include="ZZMH\js\jquery-1.11.0.min.js" />
+    <Content Include="ZZMH\js\jquery.SuperSlide.2.1.1.js" />
+    <Content Include="ZZMH\Sitepages\BeforeItemList.aspx" />
+    <Content Include="ZZMH\Sitepages\BeforeView.aspx" />
+    <Content Include="ZZMH\Sitepages\BeforeVote.aspx" />
+    <Content Include="ZZMH\ZZMHLogin.aspx" />
     <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\DYYX.pubxml" />
     <Content Include="Scripts\ueditor\third-party\jquery-1.10.2.min.map" />
@@ -731,6 +2073,31 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2013-2014学年第一学期工作总结.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2013-2014学年第二学期工作总结.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2014-2015学年第一学期教学处工作计划草稿.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2015年教师节受表彰教职工简介.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\20169121337368.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2016北京市关于组织参加全国教育信息技术研究2016年度课题申报工作的通知.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\2016年智慧教师征文（6月征集） - 副本.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\《党章》《准则》《条例》知识复习参考题.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\中央电化教育馆关于组织开展全国教育信息技术研究.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\体育组说课稿.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\党员小书包安装说明.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\关于广泛开展向北京市优秀共产党员王建军、曹毅等5同志学习活动的通知.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\县级课题2015——2016立项统计表.xls" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\实验县论文征集通知.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\延庆一中2013-2014学年度第一学期教学工作计划.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\延庆一中2013-2014学年度第二学期教学工作计划.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\延庆一中第9、10、11周教研活动.xls" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\延庆一中组织机构结构图.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\生物说课稿张娜.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\音美组李波说课稿.doc" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\高一选题汇总.xls" />
+    <Content Include="YQYZ\Attatchment\AdvertImgContent\高二选题汇总.xls" />
+    <Content Include="YQYZ\Attatchment\SchoolStyle\2015年延庆一中优秀党员简介.doc" />
+    <Content Include="YQYZ\Attatchment\SchoolStyle\2016年优秀党员简介.doc" />
+    <Content Include="YQYZ\延庆一中门户系统_用户手册.docx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\Common.js" />
@@ -1134,15 +2501,530 @@
     <Compile Include="Handler\WordOpenHTML.ashx.cs">
       <DependentUpon>WordOpenHTML.ashx</DependentUpon>
     </Compile>
+    <Compile Include="HZNWIndex.aspx.cs">
+      <DependentUpon>HZNWIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNWIndex.aspx.designer.cs">
+      <DependentUpon>HZNWIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\bottom.aspx.cs">
+      <DependentUpon>bottom.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\bottom.aspx.designer.cs">
+      <DependentUpon>bottom.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentFooter.aspx.cs">
+      <DependentUpon>DepartmentFooter.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentFooter.aspx.designer.cs">
+      <DependentUpon>DepartmentFooter.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentHeader.aspx.cs">
+      <DependentUpon>DepartmentHeader.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentHeader.aspx.designer.cs">
+      <DependentUpon>DepartmentHeader.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentIndex.aspx.cs">
+      <DependentUpon>DepartmentIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentIndex.aspx.designer.cs">
+      <DependentUpon>DepartmentIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentBeforeItemList.aspx.cs">
+      <DependentUpon>DepartmentBeforeItemList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentBeforeItemList.aspx.designer.cs">
+      <DependentUpon>DepartmentBeforeItemList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentBeforeList.aspx.cs">
+      <DependentUpon>DepartmentBeforeList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentBeforeList.aspx.designer.cs">
+      <DependentUpon>DepartmentBeforeList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentScrollList.aspx.cs">
+      <DependentUpon>DepartmentScrollList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentScrollList.aspx.designer.cs">
+      <DependentUpon>DepartmentScrollList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentBeforeView.aspx.cs">
+      <DependentUpon>DepartmentBeforeView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\Category\DepartmentBeforeView.aspx.designer.cs">
+      <DependentUpon>DepartmentBeforeView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\Header.aspx.cs">
+      <DependentUpon>Header.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\Header.aspx.designer.cs">
+      <DependentUpon>Header.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\HZNWLogin.aspx.cs">
+      <DependentUpon>HZNWLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\HZNWLogin.aspx.designer.cs">
+      <DependentUpon>HZNWLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\SitePages\BeforeItemList.aspx.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\SitePages\BeforeItemList.aspx.designer.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\SitePages\BeforeList.aspx.cs">
+      <DependentUpon>BeforeList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\SitePages\BeforeList.aspx.designer.cs">
+      <DependentUpon>BeforeList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\SitePages\BeforeScrollList.aspx.cs">
+      <DependentUpon>BeforeScrollList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\SitePages\BeforeScrollList.aspx.designer.cs">
+      <DependentUpon>BeforeScrollList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZNW\SitePages\BeforeView.aspx.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZNW\SitePages\BeforeView.aspx.designer.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZZSIndex.aspx.cs">
+      <DependentUpon>HZZSIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZZSIndex.aspx.designer.cs">
+      <DependentUpon>HZZSIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZZS\bottom.aspx.cs">
+      <DependentUpon>bottom.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZZS\bottom.aspx.designer.cs">
+      <DependentUpon>bottom.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZZS\Header.aspx.cs">
+      <DependentUpon>Header.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZZS\Header.aspx.designer.cs">
+      <DependentUpon>Header.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZZS\HZZSLogin.aspx.cs">
+      <DependentUpon>HZZSLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZZS\HZZSLogin.aspx.designer.cs">
+      <DependentUpon>HZZSLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZZS\Sitepages\BeforeItemList.aspx.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZZS\Sitepages\BeforeItemList.aspx.designer.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZZS\Sitepages\BeforeList.aspx.cs">
+      <DependentUpon>BeforeList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZZS\Sitepages\BeforeList.aspx.designer.cs">
+      <DependentUpon>BeforeList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZZS\Sitepages\BeforeScrollList.aspx.cs">
+      <DependentUpon>BeforeScrollList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZZS\Sitepages\BeforeScrollList.aspx.designer.cs">
+      <DependentUpon>BeforeScrollList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HZZS\Sitepages\BeforeView.aspx.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HZZS\Sitepages\BeforeView.aspx.designer.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ListFileHandler.cs" />
     <Compile Include="NotSupportedHandler.cs" />
     <Compile Include="ParameterValidate.cs" />
     <Compile Include="PathFormater.cs" />
+    <Compile Include="PreschoolIndex.aspx.cs">
+      <DependentUpon>PreschoolIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreschoolIndex.aspx.designer.cs">
+      <DependentUpon>PreschoolIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\PreSchoolLogin.aspx.cs">
+      <DependentUpon>PreSchoolLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\PreSchoolLogin.aspx.designer.cs">
+      <DependentUpon>PreSchoolLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\BeforeItemList.aspx.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\BeforeItemList.aspx.designer.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\BeforeList.aspx.cs">
+      <DependentUpon>BeforeList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\BeforeList.aspx.designer.cs">
+      <DependentUpon>BeforeList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\BeforeView.aspx.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\BeforeView.aspx.designer.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryDeveEdu.aspx.cs">
+      <DependentUpon>CategoryDeveEdu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryDeveEdu.aspx.designer.cs">
+      <DependentUpon>CategoryDeveEdu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryEduRes.aspx.cs">
+      <DependentUpon>CategoryEduRes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryEduRes.aspx.designer.cs">
+      <DependentUpon>CategoryEduRes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryHomeEdu.aspx.cs">
+      <DependentUpon>CategoryHomeEdu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryHomeEdu.aspx.designer.cs">
+      <DependentUpon>CategoryHomeEdu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryHygiene.aspx.cs">
+      <DependentUpon>CategoryHygiene.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryHygiene.aspx.designer.cs">
+      <DependentUpon>CategoryHygiene.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryParkProfile.aspx.cs">
+      <DependentUpon>CategoryParkProfile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryParkProfile.aspx.designer.cs">
+      <DependentUpon>CategoryParkProfile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryPartyUnion.aspx.cs">
+      <DependentUpon>CategoryPartyUnion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryPartyUnion.aspx.designer.cs">
+      <DependentUpon>CategoryPartyUnion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryPracRes.aspx.cs">
+      <DependentUpon>CategoryPracRes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryPracRes.aspx.designer.cs">
+      <DependentUpon>CategoryPracRes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategorySocialDeve.aspx.cs">
+      <DependentUpon>CategorySocialDeve.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategorySocialDeve.aspx.designer.cs">
+      <DependentUpon>CategorySocialDeve.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryTeachEdu.aspx.cs">
+      <DependentUpon>CategoryTeachEdu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\CategoryTeachEdu.aspx.designer.cs">
+      <DependentUpon>CategoryTeachEdu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\NoticeList.aspx.cs">
+      <DependentUpon>NoticeList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\NoticeList.aspx.designer.cs">
+      <DependentUpon>NoticeList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\NoticeView.aspx.cs">
+      <DependentUpon>NoticeView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PreSchool\SitePages\NoticeView.aspx.designer.cs">
+      <DependentUpon>NoticeView.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Scripts\ueditor\Handler\controller.ashx.cs">
       <DependentUpon>controller.ashx</DependentUpon>
     </Compile>
+    <Compile Include="TEST_ASP.aspx.cs">
+      <DependentUpon>TEST_ASP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TEST_ASP.aspx.designer.cs">
+      <DependentUpon>TEST_ASP.aspx</DependentUpon>
+    </Compile>
     <Compile Include="UploadHandler.cs" />
+    <Compile Include="YQSYIndex.aspx.cs">
+      <DependentUpon>YQSYIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQSYIndex.aspx.designer.cs">
+      <DependentUpon>YQSYIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQSY\bottom.aspx.cs">
+      <DependentUpon>bottom.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQSY\bottom.aspx.designer.cs">
+      <DependentUpon>bottom.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQSY\Header.aspx.cs">
+      <DependentUpon>Header.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQSY\Header.aspx.designer.cs">
+      <DependentUpon>Header.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQSY\SitePages\BeforeItemList.aspx.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQSY\SitePages\BeforeItemList.aspx.designer.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQSY\SitePages\BeforeView.aspx.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQSY\SitePages\BeforeView.aspx.designer.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQSY\YQSYLogin.aspx.cs">
+      <DependentUpon>YQSYLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQSY\YQSYLogin.aspx.designer.cs">
+      <DependentUpon>YQSYLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQYZ\bottom.aspx.cs">
+      <DependentUpon>bottom.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQYZ\bottom.aspx.designer.cs">
+      <DependentUpon>bottom.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\AnnounceNotice.aspx.cs">
+      <DependentUpon>AnnounceNotice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\AnnounceNotice.aspx.designer.cs">
+      <DependentUpon>AnnounceNotice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\BeforeVote.aspx.cs">
+      <DependentUpon>BeforeVote.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\BeforeVote.aspx.designer.cs">
+      <DependentUpon>BeforeVote.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\SearchContent.aspx.cs">
+      <DependentUpon>SearchContent.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\SearchContent.aspx.designer.cs">
+      <DependentUpon>SearchContent.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQYZ\top.aspx.cs">
+      <DependentUpon>top.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQYZ\top.aspx.designer.cs">
+      <DependentUpon>top.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQYZ\Header.aspx.cs">
+      <DependentUpon>Header.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQYZ\Header.aspx.designer.cs">
+      <DependentUpon>Header.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\BeforeItemList.aspx.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\BeforeItemList.aspx.designer.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\BeforeList.aspx.cs">
+      <DependentUpon>BeforeList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\BeforeList.aspx.designer.cs">
+      <DependentUpon>BeforeList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\BeforeView.aspx.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\BeforeView.aspx.designer.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\NoticeList.aspx.cs">
+      <DependentUpon>NoticeList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\NoticeList.aspx.designer.cs">
+      <DependentUpon>NoticeList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\NoticeView.aspx.cs">
+      <DependentUpon>NoticeView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQYZ\SitePages\NoticeView.aspx.designer.cs">
+      <DependentUpon>NoticeView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQYZIndex.aspx.cs">
+      <DependentUpon>YQYZIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQYZIndex.aspx.designer.cs">
+      <DependentUpon>YQYZIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQYZ\YQYZLogin.aspx.cs">
+      <DependentUpon>YQYZLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQYZ\YQYZLogin.aspx.designer.cs">
+      <DependentUpon>YQYZLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQZJIndex.aspx.cs">
+      <DependentUpon>YQZJIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQZJIndex.aspx.designer.cs">
+      <DependentUpon>YQZJIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQZJ\bottom.aspx.cs">
+      <DependentUpon>bottom.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQZJ\bottom.aspx.designer.cs">
+      <DependentUpon>bottom.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQZJ\Header.aspx.cs">
+      <DependentUpon>Header.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQZJ\Header.aspx.designer.cs">
+      <DependentUpon>Header.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQZJ\Sitepages\BeforeItemList.aspx.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQZJ\Sitepages\BeforeItemList.aspx.designer.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQZJ\Sitepages\BeforeList.aspx.cs">
+      <DependentUpon>BeforeList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQZJ\Sitepages\BeforeList.aspx.designer.cs">
+      <DependentUpon>BeforeList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQZJ\Sitepages\BeforeView.aspx.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQZJ\Sitepages\BeforeView.aspx.designer.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQZJ\Sitepages\Category.aspx.cs">
+      <DependentUpon>Category.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQZJ\Sitepages\Category.aspx.designer.cs">
+      <DependentUpon>Category.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YQZJ\YQZJLogin.aspx.cs">
+      <DependentUpon>YQZJLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YQZJ\YQZJLogin.aspx.designer.cs">
+      <DependentUpon>YQZJLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ZZMHIndex.aspx.cs">
+      <DependentUpon>ZZMHIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ZZMHIndex.aspx.designer.cs">
+      <DependentUpon>ZZMHIndex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ZZMH\default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ZZMH\default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ZZMH\Header.aspx.cs">
+      <DependentUpon>Header.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ZZMH\Header.aspx.designer.cs">
+      <DependentUpon>Header.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ZZMH\Sitepages\BeforeItemList.aspx.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ZZMH\Sitepages\BeforeItemList.aspx.designer.cs">
+      <DependentUpon>BeforeItemList.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ZZMH\Sitepages\BeforeView.aspx.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ZZMH\Sitepages\BeforeView.aspx.designer.cs">
+      <DependentUpon>BeforeView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ZZMH\Sitepages\BeforeVote.aspx.cs">
+      <DependentUpon>BeforeVote.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ZZMH\ZZMHLogin.aspx.cs">
+      <DependentUpon>ZZMHLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ZZMH\ZZMHLogin.aspx.designer.cs">
+      <DependentUpon>ZZMHLogin.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\HZModel\PMSModel.csproj">
@@ -1156,9 +3038,15 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="css\" />
-    <Folder Include="DYYX\Attatchment\AdvertImgContent\" />
-    <Folder Include="DYYX\Attatchment\LinkContent\" />
-    <Folder Include="DYYX\Attatchment\SchoolStyle\" />
+    <Folder Include="HZ\css\" />
+    <Folder Include="HZ\images\" />
+    <Folder Include="PreSchool\Attatchment\AdvertImgContent\" />
+    <Folder Include="PreSchool\Attatchment\LinkContent\" />
+    <Folder Include="PreSchool\Attatchment\SchoolStyle\" />
+    <Folder Include="PreSchool\Attatchment\WordContent\" />
+    <Folder Include="YQSY\Attatchment\AdvertImgContent\" />
+    <Folder Include="YQSY\Attatchment\SchoolStyle\" />
+    <Folder Include="YQZJ\Attachment\SchooolStyle\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
